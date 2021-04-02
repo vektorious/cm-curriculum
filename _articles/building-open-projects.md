@@ -10,7 +10,8 @@ contents:
   - _articles/building-open-projects/minimal-viable.md
   - _articles/building-open-projects/docs-for-whom.md
   - _articles/building-open-projects/responsible-innov.md
-following: _articles/open-hardware-specifics.md
+following: _articles/building-open-projects/first-impressions.md
+
 ---
 
 ### Description
@@ -19,19 +20,7 @@ How to concretely build an open project? This week you will go through a set of 
 ### Goal of the week
 Create entry points to your project for contributors and users, in the most accessible way.
 
-### Content
-
-- How to describe your project and tasks in a way that other people can contribute to them
-- Version Control
-- Modularity
-- Minimal viable project
-- Docs for users/devs/building
-  - Differentiate between user and developer branches/versions
-  - Documentation needs to be easy to use/modify (using mature OS tools and text formats contributes to that)
-- Responsible Innovation
-
-
-### Assignments
+### Assignments (to distribute among the submodules)
 - Make a plan for your documentation (see resources)
 - Create a README or basic project introduction
 - Write contribution guidelines considering your identified areas for improvement and development
