@@ -1,19 +1,21 @@
 ---
 layout: page
-title: "Submodule 1"
-module: "3.1"
+title: "Open hardware pathways"
+module: "1.3"
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/template-module/template-submodule-2.md
-summary: "This is a template module"
+following: _articles/welcome-to-OHM/program-structure.md
+summary: "Available routes for open hardware projects"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"
 ---
 * TOC
 {:toc}
 
+### Content 
 Text
 
 ### {{ site.assignment }} Do something!
 
 ### Resources
+ 

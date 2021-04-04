@@ -4,8 +4,12 @@ title: "Welcome to OHM"
 module: 1
 date: 2016-10-06 14:05:56
 contents:
-
-following: _articles/staging-your-project.md
+  - _articles/welcome-to-OHM/brief-history.md
+  - _articles/welcome-to-OHM/working-open.md
+  - _articles/welcome-to-OHM/pathways.md
+  - _articles/welcome-to-OHM/program-structure.md
+  - _articles/welcome-to-OHM/guidelines.md
+following: _articles/welcome-to-OHM/brief-history.md
 ---
 ### Description
 
@@ -15,15 +19,7 @@ In this first week we will go through what constitutes an open project, how Open
 
 Understand what openness means for open hardware projects; familiarize yourself with the program approach, structure and communication channels and get to know fellow mentees and mentors.
 
-### Content
-- Brief history of open hardware
-- What it means and what it doesn’t mean to work open (FAQ)
-- Pathways of open hardware projects
-- Our values / program’s code of conduct
-- Introduction into the program structure
-- Testimonials of projects from the pilot (which we will recall along the program)
-
-### Assignments
+### Assignments (to insert in each submodule)
 - Complete OHM checklist available in the GOSH forum
 - Read through our list of open hardware projects and pick aspects of projects you like to discuss them in the next cohort meeting
 - Mentor meeting:
