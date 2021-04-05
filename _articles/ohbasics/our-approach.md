@@ -28,10 +28,3 @@ As a mentorship program, OHM is mostly structured around the mentor-mentee relat
 ### Platform-agnostic
 
 During the last years we have seen an incredible growth in the number of platforms that offer hosting for open hardware documentation. In this program **we invite creators to use the documentation platform better suited for their purposes** and community rather than making specific recommendations. We encourage practices that enable collaboration and increase discoverability across these multiple platforms.
-
-### Learning goals
-**Participants who complete OHM will be able to:**
-- Understand what openness means for hardware projects
-- Understand the role of their project in the open hardware community
-- Build a fully-reusable project and make it easier for others to find it
-- Understand & promote cooperation, diversity and inclusion in open hardware

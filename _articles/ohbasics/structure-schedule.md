@@ -24,6 +24,14 @@ Mid-term along the program, during the week 9 cohort call, mentees go through an
 
 Mentees will put what they have learned into practice by attending a global sprint near the end of the program. In this 2-day session they will work on the final details for opening their projects to contributions and will also contribute to their fellow mentees’ projects. Mentees will showcase their projects during the last week in a public call.
 
+### Content structure
+
+The training consists of eight sections, each containing a set of modules on a topic related to open hardware. In each module, you’ll learn by reading, watching short videos created by the organizers and community members, and completing hands-on assignments. The assignments build on each other, so this training works best if you do the modules in order.
+
+Completion of the assignments in this series is very important! The work in each assignment represents real, significant work on your project, from project planning to developing good workflows to communicating effectively with contributors. It’s important to do the modules in order, because the assignments build on each other– for example, you’ll want to complete the module on staging your project before you jump into a module about open hardware specifics, as the first one will help you envision and set up the general structure that will facilitate building the specifics on top.
+
+We’ve provided a time estimate of how long it should take to complete each module, including assignments. While you might complete the reading/learning part of this training over the course of a few days, some of the assignments may take much longer to complete (e.g. writing user guides), and can therefore be useful to you as a reference in the future.
+
 ### General schedule
 
 |    Week   |    Meeting    | Activities                       |

@@ -3,8 +3,6 @@ layout: page
 title: "Participation guidelines"
 following: _articles/welcome-to-OHM.md
 ---
-* TOC
-{:toc}
 
 Open Hardware Makers aims to create a diverse, global community working to enhance the sharing of open hardware. Because of this diversity, it is important to be intentional about providing respectful, equitable spaces — both online and in person — for our community to come together and engage in constructive, respectful discourse.
 
@@ -14,15 +12,17 @@ Individuals who violate this Code may affect their ability to participate in the
 
 Anyone requested to stop behavior that violates the Code of Conduct is expected to comply immediately, even if they disagree with the request. The organizers reserve the right to interrupt participation in the program based on CoC violations.
 
+* TOC
+{:toc}
 
-## General principles
+### General principles
 
 **We strive to make open hardware open to everybody, regardless of scholarly or professional background, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, age, economic background, country of origin or employment, religion, and other differences.**
 
 We practice **equity**. Equity recognizes that everyone does not start from the same position and so treating everyone the same may leave them in the same uneven positions they began in. For this reason, we are intentional about actively reducing the inequitable barriers that stand between tool development and those who use them, hack them and learn from them.
 
 
-### We listen.
+#### We listen.
 
 We begin interactions by acknowledging that we are part of a community with complementary goals. When something has happened and someone is uncomfortable, our first choice is to work through it through discussion. We listen to each other.
 
@@ -35,7 +35,7 @@ We begin interactions by acknowledging that we are part of a community with comp
 *   We avoid this ourselves and help others identify when they are doing it.
 
 
-### We practice consent.
+#### We practice consent.
 
 At in-person events such as hackathons, sprints or any other sessions, everyone’s physical space must be respected at all times. We do not touch other people without asking first — this includes physical greetings such as hugs, handshakes, or kisses, since not everyone is comfortable with the same type of touch.
 
@@ -45,7 +45,7 @@ At in-person events such as hackathons, sprints or any other sessions, everyone�
 
 Note that many forms of harassment do not look like physical or verbal abuse, but still fall into this category. Non-consent can include exhibiting sexual images in public spaces, deliberate intimidation, stalking, following, photography or recording without permission, sustained disruption of talks or conversations, inappropriate physical contact, and unwelcome sexual attention.
 
-### Examples of online community behavior
+#### Examples of online community behavior
 
 | **Do** | **Don&#39;t** |
 | --- | --- |
@@ -54,7 +54,7 @@ Note that many forms of harassment do not look like physical or verbal abuse, bu
 | **Write short and literal subject lines** to help the readers of the list manage the volume of communication. | Humor and euphemisms in subject lines are easily misunderstood, although enthusiasm is welcome! |
 | **Mind your tone.** We are not having this conversation in person, so it is all the more important to maintain a tone of respect. | Do not write in an aggressive, disrespectful or mocking tone. Note: writing in all caps is regarded as shouting. |
 
-### Examples of in-person community behavior
+#### Examples of in-person community behavior
 
 | **Do** | **Don&#39;t** |
 | --- | --- |
@@ -69,7 +69,7 @@ Note that many forms of harassment do not look like physical or verbal abuse, bu
 | Use the **pronouns** people have specified for themselves. | Do not purposely misgender someone (ie, refusing to use their correct gender pronouns). |
 | Step up and comment when you see violations occur by emailing [ohwmakers@gmail.com](mailto:ohwmakers@gmail.com) | Do not expect that people who are subject to Code of Conduct violations are comfortable or able to address or report them themselves. |
 
-## How To Report A Problem
+### How To Report A Problem
 
 Reportings should not be done via social media.
 
@@ -77,7 +77,7 @@ If you are at an event that is part of the mentorship program, feel free to appr
 
 You can also email the organizers at [ohwmakers@gmail.com](mailto:ohwmakers@gmail.com) in case you witness or experience inappropriate behaviour.
 
-## Moderation process
+### Moderation process
 
 Online modes of interaction involve large numbers of people without the helpful presence of visual cues. Because of this, respectful and self-aware online conduct is especially important and difficult.
 
