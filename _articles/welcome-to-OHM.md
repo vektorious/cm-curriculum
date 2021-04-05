@@ -7,8 +7,6 @@ contents:
   - _articles/welcome-to-OHM/brief-history.md
   - _articles/welcome-to-OHM/working-open.md
   - _articles/welcome-to-OHM/pathways.md
-  - _articles/welcome-to-OHM/program-structure.md
-  - _articles/welcome-to-OHM/guidelines.md
 following: _articles/welcome-to-OHM/brief-history.md
 ---
 ### Description

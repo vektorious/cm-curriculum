@@ -5,6 +5,7 @@ contents:
   - _articles/ohbasics/who-for.md
   - _articles/ohbasics/our-approach.md
   - _articles/ohbasics/structure-schedule.md
+  - _articles/ohbasics/guidelines.md
 following: _articles/ohbasics/who-for.md
 ---
 

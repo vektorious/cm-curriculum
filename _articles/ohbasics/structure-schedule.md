@@ -1,23 +1,30 @@
 ---
 layout: page
-title: "Structure and schedule"
-following: _articles/welcome-to-OHM.md
+title: "How does it work?"
+following: _articles/ohbasics/guidelines.md
 ---
 * TOC
 {:toc}
 
-### Structure
+
+### Program structure
+
+![](https://openhardware.space/assets/images/path.png)
 
 During the 15 weeks of the program mentees should attend two alternating types of online meetings:
 
-- **1:1 mentorship meetings** Mentees meet with mentors every second week to review the week’s content and assignments, and for general follow-up on their projects.
-- **Cohort meetings** All mentees meet online every other week to peer-review the progress of fellow mentees and share their own progress, questions and concerns.
-
+>#### 1:1 mentorship meetings 
+Mentees meet with mentors every second week to review the week’s content and assignments, and for general follow-up on their projects.
+>
+>#### Peer-review meetings
+>All mentees meet online every other week to peer-review the progress of fellow mentees and share their own progress, questions and concerns.
+>
+>#### Expert’s assessment
 Mid-term along the program, during the week 9 cohort call, mentees go through an **expert’s assessment** of their projects. The aim of this assessment is to review progress towards project goals while there is still time to modify plans.
 
 Mentees will put what they have learned into practice by attending a global sprint near the end of the program. In this 2-day session they will work on the final details for opening their projects to contributions and will also contribute to their fellow mentees’ projects. Mentees will showcase their projects during the last week in a public call.
 
-### Schedule
+### General schedule
 
 |    Week   |    Meeting    | Activities                       |
 |:---------:|:-------------:|----------------------------------|
