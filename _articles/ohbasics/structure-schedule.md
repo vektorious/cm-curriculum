@@ -36,6 +36,7 @@ We’ve provided a time estimate of how long it should take to complete each mod
 
 |    Week   |    Meeting    | Activities                       |
 |:---------:|:-------------:|----------------------------------|
+|   Week 0  |  Onboarding | [OHM Basics]({{ site.baseurl }}/articles/ohmbasics.md) |
 |   Week 1  |  Opening call | [Welcome to Open Hardware Makers!]({{ site.baseurl }}/articles/welcome-to-OHM) |
 |   Week 2  |  Mentor call  | [Staging your project]({{ site.baseurl }}/articles/staging-your-project)             |
 |   Week 3  |  Cohort call  | Peer review                      |
