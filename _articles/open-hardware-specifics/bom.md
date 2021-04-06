@@ -9,6 +9,9 @@ summary: "And how to make it useful for your contributors"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"
 ---
+<p align="center">
+<img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>
+</p>
 * TOC
 {:toc}
 
@@ -16,7 +19,7 @@ materials: "Pen or pencil and paper"
 - Minimal viable documentation for building or contributing
   - Bill of materials
     - Access to materials in diff parts of the world
-  
+
 
 
 ### {{ site.assignment }} Do something!

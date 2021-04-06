@@ -9,6 +9,9 @@ summary: "Taking a look at your journey through the program"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"
 ---
+<p align="center">
+<img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>
+</p>
 * TOC
 {:toc}
 
@@ -17,7 +20,7 @@ materials: "Pen or pencil and paper"
   - How did your idea change
   - Thought provoking
   - Peer review
-  
+
 ### {{ site.assignment }} Do something!
 
 ### Resources

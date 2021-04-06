@@ -9,6 +9,9 @@ summary: "Learn about the available options and their differences"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"
 ---
+<p align="center">
+<img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>
+</p>
 * TOC
 {:toc}
 
