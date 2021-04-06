@@ -18,6 +18,6 @@ materials: "Pen or pencil and paper"
 ### Contents
 - How to measure a process and define milestones?
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} “Reverse-plan” and list the actions, responsibilities and timeline for achieving your goal
 
 ### Resources

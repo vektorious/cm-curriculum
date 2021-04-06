@@ -16,8 +16,11 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Content
-Text
+- Introduction into version control systems
+  - Why is it important?
+  - use cases and examples
+- Versioning done right
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Determine how you implement version control in your project
 
 ### Resources

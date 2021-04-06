@@ -22,6 +22,6 @@ materials: "Pen or pencil and paper"
 
 
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Write minimal viable documentation for builders/contributors including a BOM
 
 ### Resources

@@ -16,7 +16,9 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Contents
+- Why is time management importan?
+- Tips and tricks for time management
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Set reasonable milestones for your project
 
 ### Resources

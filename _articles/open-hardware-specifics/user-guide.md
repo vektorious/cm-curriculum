@@ -22,6 +22,6 @@ materials: "Pen or pencil and paper"
   - FAQ
   - Where to find downloads and stuff
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Write a minimal viable documentation for users
 
 ### Resources

@@ -16,7 +16,8 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Content
-Text
+- What are the absolute basics of an open project?
+- Introduction of things we discuss in detail later in the program
 
 ### {{ site.assignment }} Do something!
 

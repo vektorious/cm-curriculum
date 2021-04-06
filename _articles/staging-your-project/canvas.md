@@ -21,6 +21,7 @@ materials: "Pen or pencil and paper"
 - How to use the Open Hardware Canvas
 
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Fill out the Open Hardware Canvas
+- share the canvas with your mentor
 
 ### Resources

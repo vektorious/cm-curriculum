@@ -18,7 +18,9 @@ materials: "Pen or pencil and paper"
 ### Content
 
 - How to describe your project and tasks in a way that other people can contribute to them
+  - Explanation why this is important
+  - What should be in a good README?
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Create a README or basic project introduction
 
 ### Resources

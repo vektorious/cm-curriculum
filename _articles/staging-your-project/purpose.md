@@ -18,7 +18,8 @@ materials: "Pen or pencil and paper"
 ### Content
 
 - Purpose: why are you developing your project?
+- Outcome: what do you expect from your project?
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Write a short "Purpose and Outcome" for your project
 
 ### Resources

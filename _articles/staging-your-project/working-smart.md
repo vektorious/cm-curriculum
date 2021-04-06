@@ -21,8 +21,6 @@ materials: "Pen or pencil and paper"
   - Talk to the users
   - Don’t reinvent the wheel
 
-Text
-
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Do some research on projects similar to yours!
 
 ### Resources

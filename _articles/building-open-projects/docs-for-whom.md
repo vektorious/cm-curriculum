@@ -17,10 +17,12 @@ materials: "Pen or pencil and paper"
 
 ### Content
 
+- Plan you documentation before you actually start documenting
 - Docs for users/devs/building
   - Differentiate between user and developer branches/versions
   - Documentation needs to be easy to use/modify (using mature OS tools and text formats contributes to that)
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Make a plan for your documentation
+
 
 ### Resources

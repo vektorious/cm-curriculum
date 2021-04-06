@@ -16,6 +16,9 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Contents
-### {{ site.assignment }} Do something!
+- What's a roadmap and why is it useful?
+
+### {{ site.assignment }} Define a clear final goal you want to achieve with your project.
+- Review of the project’s goal (initially wrote on unit 2)
 
 ### Resources

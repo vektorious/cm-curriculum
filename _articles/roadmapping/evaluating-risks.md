@@ -16,7 +16,10 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Contents
+- What factors does your project depend on?
+- What could affect your roadmap
+  - How to account for this eventualities
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Determine critical points and pitfalls in your roadmap
 
 ### Resources

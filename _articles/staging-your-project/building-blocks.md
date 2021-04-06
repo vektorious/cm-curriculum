@@ -27,5 +27,6 @@ materials: "Pen or pencil and paper"
 
 
 ### {{ site.assignment }} Do something!
+- #TODO: We have to find a good assignment for this module
 
 ### Resources

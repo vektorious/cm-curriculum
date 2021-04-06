@@ -17,7 +17,8 @@ materials: "Pen or pencil and paper"
 
 ### Content
 
-Text
+- What's behind "responsible innovation"?
+  - What does this mean for my project?
 
 ### {{ site.assignment }} Do something!
 

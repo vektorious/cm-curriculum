@@ -22,6 +22,6 @@ materials: "Pen or pencil and paper"
 - Video documentation (time stamp it, damn it) (open community subtitles, damn it)    
 
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Revisit your contribution guidelines and documentation plan
 
 ### Resources
