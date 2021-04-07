@@ -23,6 +23,9 @@ materials: "Pen or pencil and paper"
 
 
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Read up on different copyleft licenses
+
+
+
 
 ### Resources

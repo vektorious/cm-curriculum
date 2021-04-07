@@ -19,6 +19,8 @@ materials: "Pen or pencil and paper"
 
 - Findability: There are more than 80 different platforms hosting hardware projects. They all have different formats, user interfaces, etc. This makes finding your project, or even a project related to yours quite difficult. To solve this issue, the OpenKnowHow created a standard in the format of a simple file that can be edited and added to your project.
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Include your project in Open KnowHow
 
+Follow [these instructions](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/wiki) to create a .yml file to include your project in [openknowhow.org](https://openknowhow.org) (You can use [this online form](https://okh.makernet.org/form) to create the .yml file)
 ### Resources
+- [Open Know-How manifest](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/src/branch/master/1)
