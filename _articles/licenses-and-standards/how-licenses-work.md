@@ -2,8 +2,8 @@
 layout: page
 title: "How licenses work"
 module: "6.1"
-date: 2016-10-06 14:05:56
-time: "20 min"
+date: 2021-04-07 14:05:56
+time: "30 min"
 following: _articles/licenses-and-standards/oh-licenses.md
 summary: "And how they can work for your project"
 prereq: "Have completed all previous sections and modules"
@@ -23,6 +23,12 @@ materials: "Pen or pencil and paper"
 
 
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Get an overview on how licenses work
+- Browse throught the resources below to learn about the different available licenses and their "ethos"
+
+
 
 ### Resources
+- https://creativecommons.org/
+- https://en.wikipedia.org/wiki/Copyleft
+- https://en.wikipedia.org/wiki/Open-source_license
