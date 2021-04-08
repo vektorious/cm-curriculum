@@ -27,6 +27,11 @@ materials: "Pen or pencil and paper"
     - Presentations
     - Forum
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Start communicating with your community!
 
+- Define your communication channels
+- Create a communication piece
+- Check the language you are using for jargon and try to rephrase descriptions to be understandable by people with a different background (This can be done as part of the community call, as an exercise online)
 ### Resources
+- [The Up-Goer Five Text Editor](https://splasho.com/upgoer5/)
+
