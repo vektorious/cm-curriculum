@@ -12,11 +12,11 @@ following: _articles/welcome-to-OHM/working-open.md
 
 Before you start this section, be sure to read the OHM Basics for information about how this training series is structured, and what you’ll need to begin.
 
-If you are following along as part of the mentorship program, during this week you will get to know your fellow mentees, the mentors supporting you and the organizer team. We will also provide you with a brief introduction to the tools and communication channels we’ll be using to get the most out of your program participation.
+If you are following along as part of the mentorship program, during this week you will get to know your fellow mentees and the organizers' team. We will also provide you with a brief introduction to the tools and communication channels we’ll be using to get the most out of your program participation.
 
 ### Goal of the week
 
-Understand what openness means for hardware projects; familiarize yourself with the open hardware community, get to know your mentor and fellow mentees.
+Understand what openness means for hardware projects; familiarize yourself with the open hardware community, learn about the diversity of options available for hardware projects.
 
 <!--### Assignments (to insert in each submodule)
 - Complete OHM checklist available in the GOSH forum

@@ -18,10 +18,13 @@ materials: "Pen or pencil and paper"
 
 ### Content
 
-- How to use the Open Hardware Canvas
+Introducing the Open Hardware Canvas
 
+- Why it is useful?
+- How to use it 
+- https://github.com/ohwmakers/ohcanvas
 
 ### {{ site.assignment }} Fill out the Open Hardware Canvas
-- share the canvas with your mentor
+- Share the canvas with your mentor
 
 ### Resources

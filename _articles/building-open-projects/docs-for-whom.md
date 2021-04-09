@@ -21,6 +21,7 @@ materials: "Pen or pencil and paper"
 - Docs for users/devs/building
   - Differentiate between user and developer branches/versions
   - Documentation needs to be easy to use/modify (using mature OS tools and text formats contributes to that)
+  - language is different 
 
 ### {{ site.assignment }} Make a plan for your documentation
 

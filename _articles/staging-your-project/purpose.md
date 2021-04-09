@@ -17,8 +17,13 @@ materials: "Pen or pencil and paper"
 
 ### Content
 
+Defining the "what"
+
 - Purpose: why are you developing your project?
+- Scope: what will your project do and do not?
 - Outcome: what do you expect from your project?
+- Outputs vs Outcomes
+
 
 ### {{ site.assignment }} Write a short "Purpose and Outcome" for your project
 

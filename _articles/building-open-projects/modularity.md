@@ -16,9 +16,11 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Content
-- Why is modularity useful? (reusability :rocket:)
-  - examples and use cases
 
-### {{ site.assignment }} Revise your project in terms of modularity
+- Why is modularity useful? 
+- Reusability :rocket:
+- examples and use cases
+
+### {{ site.assignment }} Review your project in terms of modularity
 
 ### Resources

@@ -16,9 +16,11 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Contents
-- Why is time management importan?
-- Tips and tricks for time management
+- Why is time management important?
+- Sustainability & burn out in open source
+- Learning to delegate/contributors pathways
+- Tips and tools
 
-### {{ site.assignment }} Set reasonable milestones for your project
+### {{ site.assignment }} Think of contributors' pathways for your project
 
 ### Resources

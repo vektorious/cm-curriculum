@@ -14,13 +14,13 @@ materials: "Pen or pencil and paper"
 
 ### Why working open?
 
-Hi there, and welcome to Open Hardware Makers! Our program was born out of the need of a bridge, a helping hand that guides newcomers into the open hardware community. The growth of open hardware during the last decade has been so impressive that it is easy to get lost in the numerous platforms, documentation guidelines, and wonderful diversity of projects out there.
+Hi there, and welcome to the first module of Open Hardware Makers! Our program was born out of the need of a bridge, a helping hand that guides newcomers into the open hardware community. 
 
-On the other hand, our intention is that this bridge allows more, and different people, to create, contribute to and support open hardware projects. This is one of the core values of Open Hardware Makers: we envision the program as a tool for diversifying the open hardware community, making openness not only available but accessible for everyone.
+Our intention is that this bridge allows more, and different people, to create, contribute to and support open hardware projects. This is one of the core values of Open Hardware Makers: we envision the program as a tool for diversifying the open hardware community, making openness not only available but accessible for everyone.
 
-As part of this vision, in Open Hardware Makers we consider working open is much more than making your hardware documentation available. 
+As part of this vision, in Open Hardware Makers we consider working open is much more than making your hardware documentation available online. 
 
-### What does it mean?
+### What does working open mean?
 
 As we ourselves learned through the [Mozilla open leadership training series](https://mozilla.github.io/open-leadership-training-series/), you are "working open" when: 
 
@@ -46,7 +46,7 @@ By inviting a broad community to contribute to your project, you can integrate y
 
 When you’re engaging contributors and target users from day one, your final product will launch to a built-in audience and be more likely to be supported, championed and sustained by contributors with a long history with the project. When you share your process and making ongoing work openly available on the web, others can build on your work, adapt your process or a part of your project for a novel use. Your project can have positive, transformative effects far beyond what you’re able to imagine.
 
-### And what it can't
+### ...and what it can't
 
 Working open can help your project flourish and grow, but there are also many misconceptions about the practice. Let’s address a few common confusions about working open, and get at some of the challenges inherent in this way of working.
 

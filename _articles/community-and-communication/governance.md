@@ -2,7 +2,7 @@
 layout: page
 title: "Governance models"
 module: "7.2"
-date: 2016-10-06 14:05:56
+date: 2021-04-07 14:05:56
 time: "20 min"
 following: _articles/OHM-outro.md
 summary: "An overview of decision-making systems for open projects"
@@ -16,12 +16,19 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Contents
-- Community management
-  - Governance models
+- What is a governance model 
+- Why does it matter
+- Examples from commmunityrule.info
+- Elements
     - Decision making
     - Roles in the community (onboarding for new ppl)
-    - Community guidelines
+- Participation guidelines
 
-### {{ site.assignment }} Do something!
+
+### {{ site.assignment }} hink about how decisions are made in your project, and outline the main elements of it
+- Think of the different roles in your project and the process of making decisions
+- Write up some community guidelines (Code of Conduct) and be prepared to enforce them. If you don't know where to start, take a look at this [very detailed example from Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
 ### Resources
+- https://communityrule.info (governance templates)
+- [Open Leadership Training Series : Write or Choose a Code of Conduct](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/)

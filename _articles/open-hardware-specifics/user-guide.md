@@ -21,6 +21,7 @@ materials: "Pen or pencil and paper"
   - Examples
   - FAQ
   - Where to find downloads and stuff
+  - Formats
 
 ### {{ site.assignment }} Write a minimal viable documentation for users
 

@@ -17,8 +17,15 @@ materials: "Pen or pencil and paper"
 
 ### Content
 
-What’s the best license for your project, cover the most common ones and tools to help people decide
+- Hardware licenses available (TAPR, Solderpad, CERN-OH)
+- Comparison
+- Examples of projects using different licenses
 
-### {{ site.assignment }} Do something!
+
+### {{ site.assignment }} Choose licenses for your project
+- Choose a license or several licenses depending on the types of content you are providing.
+- If you are using parts of other projects with licenses check if you attribute them correctly
 
 ### Resources
+- ‘Licensing open source hardware’ by Michael Weinberg, in “Building open source hardware”
+- https://choosealicense.com/

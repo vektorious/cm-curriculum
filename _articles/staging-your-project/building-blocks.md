@@ -26,7 +26,7 @@ materials: "Pen or pencil and paper"
   - Value specification (sometimes there is a trade off between the best tech and openness. Defining what is more important is important)
 
 
-### {{ site.assignment }} Do something!
-- #TODO: We have to find a good assignment for this module
+<!-- ### {{ site.assignment }} Do something! -->
+<!--- #TODO: We have to find a good assignment for this module-->
 
 ### Resources

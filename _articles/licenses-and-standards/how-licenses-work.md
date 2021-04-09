@@ -2,8 +2,8 @@
 layout: page
 title: "How licenses work"
 module: "6.1"
-date: 2016-10-06 14:05:56
-time: "20 min"
+date: 2021-04-07 14:05:56
+time: "30 min"
 following: _articles/licenses-and-standards/oh-licenses.md
 summary: "And how they can work for your project"
 prereq: "Have completed all previous sections and modules"
@@ -17,12 +17,16 @@ materials: "Pen or pencil and paper"
 
 ### Contents
 
-- Licenses
-  - Licenses and their characteristics (e.g. how to cite/attribute, compatibility)
-  - Hardware projects require at least two/three licenses: one for the hardware itself, one for documentation and one for the software
+- Copyleft and non copyleft licenses
+- Licenses and patents
+- Elements of licenses (attribution, report back, etc)
+- Licensing hardware design, licensing documentation, licensing software
 
 
-
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Get an overview on how licenses work
+- Browse throught the resources below to learn about the different available licenses and their "ethos"
 
 ### Resources
+- https://creativecommons.org/
+- https://en.wikipedia.org/wiki/Copyleft
+- https://en.wikipedia.org/wiki/Open-source_license

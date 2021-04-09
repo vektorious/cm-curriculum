@@ -18,15 +18,18 @@ materials: "Pen or pencil and paper"
 
 ### Contents
 
-- Communication - how to reach out
-  - Communication channels
-  - Good documentation as a way of communicating
-  - Increase involvement
+- Communication - getting the message out there
+- Communication channels
+- Good documentation as a way of communicating
+- Increase involvement
     - Webinars/Workshops
     - Tutorials
     - Presentations
     - Forum
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Create a communication piece for the demo call
 
+- Check the language you are using for jargon and try to rephrase descriptions to be understandable by people with a different background (This can be done as part of the community call, as an exercise online)
 ### Resources
+- [The Up-Goer Five Text Editor](https://splasho.com/upgoer5/)
+

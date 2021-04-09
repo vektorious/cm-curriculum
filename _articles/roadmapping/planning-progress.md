@@ -16,8 +16,11 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Contents
-- How to measure a process and define milestones?
+- Reverse planning
+- What are roadmap milestones
+- How to work with milestones
+- Assessing progress and monitoring indicators
 
-### {{ site.assignment }} “Reverse-plan” and list the actions, responsibilities and timeline for achieving your goal
+### {{ site.assignment }} “Reverse-plan” and list the milestones, responsibilities and timeline for achieving your goal
 
 ### Resources
