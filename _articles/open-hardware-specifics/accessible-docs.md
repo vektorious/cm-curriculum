@@ -17,10 +17,9 @@ materials: "Pen or pencil and paper"
 
 ### Content
 - Document in a way that is understandable to others; specialists and newcomers alike.
-  - Skills necessary to do “x” task
-
+- Organized, e.g. skills necessary to do “x” task
 - Video documentation (time stamp it, damn it) (open community subtitles, damn it)    
-
+- Collaborative translation
 
 ### {{ site.assignment }} Revisit your contribution guidelines and documentation plan
 

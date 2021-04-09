@@ -17,8 +17,9 @@ materials: "Pen or pencil and paper"
 
 ### Content
 
-- What's behind "responsible innovation"?
-  - What does this mean for my project?
+- What's "responsible innovation"?
+- Why it matters?
+- What does this mean for my project in concrete terms?
 
 ### {{ site.assignment }} Do something!
 

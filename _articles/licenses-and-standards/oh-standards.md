@@ -16,12 +16,13 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Contents
+
 - Hardware standards:
   - The importance of standards (compatibility, reproducibility, repairability, guideline)  
   - What is a suitable standard for my project?
-  - Examples of open standards and how to apply them to your project
+  - Examples of open standards and how to apply them to your project (eg DIN spec)
   - What are the standards in your region? (Europe CE, Brazil INMETRO, etc)
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Check which standards you may want to apply to your project in the future
 
 ### Resources

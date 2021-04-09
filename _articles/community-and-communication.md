@@ -9,12 +9,13 @@ contents:
     - _articles/community-and-communication/outreach.md
 following: _articles/community-and-communication/contribution-mgt.md
 ---
-### Description
-If your project could benefit from having external contributors and a community, then you should make sure it is prepared in a way to attract them and make them feel welcome! Think about your past experiences as a newcomer to a new project. Communication is an important factor in how well others understand what your project is about, especially if they have a different background. Therefore, we will have a look at how you can communicate the different parts of your projects in a positive, jargon-free way.
+If your project could benefit from having external contributors and a community, then you should make sure it is prepared in a way to attract them and make them feel welcome.
+
+The way you manage contributions has a significant impact on your project roadmap. Here we will take a look at concepts and tools that will help you polish your contributions workflow.
 
 ### Goal of the week
 Define the processes that will allow your project to manage input from users and collaborators, while keeping it a welcoming and friendly space
-
+<!--
 ### Assignments (to be distributed among submodules)
 **Communication**
 - Define your communication channels
@@ -24,4 +25,4 @@ Define the processes that will allow your project to manage input from users and
 - Think of the different roles in your project and the process of making decisions
 - Write up some community guidelines (Code of Conduct) and be prepared to enforce them. If you don't know where to start, take a look at this very detailed example from Mozilla.
 - Define how you want to manage contributions
-- Create First Timers Only issues that walk newcomers through how to set up anything that may be required in the development environment
+- Create First Timers Only issues that walk newcomers through how to set up anything that may be required in the development environment-->

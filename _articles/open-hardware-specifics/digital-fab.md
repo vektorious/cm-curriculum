@@ -27,6 +27,6 @@ materials: "Pen or pencil and paper"
   - Textiles
   - Building instructions/Assembly guide/Recipe
 
-### {{ site.assignment }} Revisit your contribution guidelines and documentation plan and adjust them if needed
+### {{ site.assignment }} Revisit your contribution guidelines and files format, adjust if needed
 
 ### Resources

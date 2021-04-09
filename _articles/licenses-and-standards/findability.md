@@ -17,8 +17,10 @@ materials: "Pen or pencil and paper"
 
 ### Contents
 
-- Findability: There are more than 80 different platforms hosting hardware projects. They all have different formats, user interfaces, etc. This makes finding your project, or even a project related to yours quite difficult. To solve this issue, the OpenKnowHow created a standard in the format of a simple file that can be edited and added to your project.
+- Open hardware growth and multiple platforms/formats
+- The need for findability standards
+- OpenKnowHow project and derivatives, and how to implement it
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Add an open know how manifesto to your project
 
 ### Resources

@@ -16,12 +16,14 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Contents
-- Community management
-  - Governance models
+- What is a governance model 
+- Why does it matter
+- Examples from commmunityrule.info
+- Elements
     - Decision making
     - Roles in the community (onboarding for new ppl)
-    - Community guidelines
+- Participation guidelines
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Think about how decisions are made in your project, and outline the main elements of it
 
 ### Resources

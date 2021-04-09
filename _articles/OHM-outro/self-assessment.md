@@ -17,8 +17,12 @@ materials: "Pen or pencil and paper"
 
 ### Content
 
-- The importance of self assessment, so examples of things to look at, “indicators” to monitor: what is a good indicator?
+- The importance of periodic self assessment
+- Assessing your project progress/assessing your own growth and needs
+- How to work with asseessment in teams
+- Giving useful feedback
+- Working on received feedback 
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Complete the self-assessment exercise
 
 ### Resources

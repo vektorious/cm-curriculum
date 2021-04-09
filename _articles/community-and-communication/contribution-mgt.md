@@ -16,12 +16,12 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Contents
-- Community management
-  - Contribution management
-    - Issue tracking
-    - Types of contributions/demands (what to accept, delay, etc)
-  - transferring ownership
+- Contributions workflow
+- What is a CONTRIBUTING.md
+- Issue tracking
+- Types of contributions/demands (what to accept, delay, etc)
+- Transferring ownership
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Write your contributing.md
 
 ### Resources

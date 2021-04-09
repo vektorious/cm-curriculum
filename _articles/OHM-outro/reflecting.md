@@ -17,10 +17,12 @@ materials: "Pen or pencil and paper"
 
 ### Content
 - Reflecting on your program experience
-  - How did your idea change
-  - Thought provoking
-  - Peer review
+  - Look at the canvas, where did you start, where are you now?
+  - Expectation vs reality
+  - Mentoring experience
+  - Peer review experience
+  - Experts assessment experience
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Identify areas where you will need further support
 
 ### Resources

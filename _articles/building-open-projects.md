@@ -13,7 +13,7 @@ contents:
 following: _articles/building-open-projects/first-impressions.md
 
 ---
-How to concretely build an open project? This week you will go through a set of principles, values and tools that will help you lower access barriers for users and contributors. You will then apply them to start creating the building blocks of your project.
+How to concretely build an open project? This week you will go through a set of principles, values and tools that will help you lower access barriers for users and contributors. You will then apply them to start creating the building blocks of your open hardware project.
 
 ### Goal of the week
-Create entry points to your project for contributors and users, in the most accessible way.
+Understand the design principles that will allow you to facilitate collaborative work in your project

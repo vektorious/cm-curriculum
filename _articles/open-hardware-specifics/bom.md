@@ -20,8 +20,6 @@ materials: "Pen or pencil and paper"
   - Bill of materials
     - Access to materials in diff parts of the world
 
-
-
 ### {{ site.assignment }} Write minimal viable documentation for builders/contributors including a BOM
 
 ### Resources

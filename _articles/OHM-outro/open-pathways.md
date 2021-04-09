@@ -16,7 +16,7 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Content
-- Thinking of your project in the mid and long term
+- Thinking of your project in the mid and long term and how it relates to your roadmap
   - The tech - Future modifications or new branches or forks or whatever
   - The community - Is engaging super important now?
   - Funding needs?
@@ -26,6 +26,6 @@ materials: "Pen or pencil and paper"
   - Add it to the list of OSH on wikipedia and boost your SEO (https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
   - Science: derive a paper & propose it to the Journal of Open Hardware
 
-### {{ site.assignment }} Do something!
+### {{ site.assignment }} Define concrete next steps for your project after the program finishes
 
 ### Resources
