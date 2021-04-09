@@ -17,8 +17,11 @@ materials: "Pen or pencil and paper"
 
 ### Contents
 - What's a roadmap and why is it useful?
+- Roadmap vs Plan
+- How to roadmap in an efficient way
+- Tools for roadmapping 
 
-### {{ site.assignment }} Define a clear final goal you want to achieve with your project.
+### {{ site.assignment }} Define a clear goal you want to achieve with your project.
 - Review of the project’s goal (initially wrote on unit 2)
 
 ### Resources

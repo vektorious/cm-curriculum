@@ -16,15 +16,19 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Contents
-- Community management
-  - Governance models
+- What is a governance model 
+- Why does it matter
+- Examples from commmunityrule.info
+- Elements
     - Decision making
     - Roles in the community (onboarding for new ppl)
-    - Community guidelines
+- Participation guidelines
 
-### {{ site.assignment }} Prepare your project for contributors and a community
+
+### {{ site.assignment }} hink about how decisions are made in your project, and outline the main elements of it
 - Think of the different roles in your project and the process of making decisions
 - Write up some community guidelines (Code of Conduct) and be prepared to enforce them. If you don't know where to start, take a look at this [very detailed example from Mozilla](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+
 ### Resources
 - https://communityrule.info (governance templates)
 - [Open Leadership Training Series : Write or Choose a Code of Conduct](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/)

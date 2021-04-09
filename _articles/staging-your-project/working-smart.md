@@ -16,10 +16,11 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Content
+Don’t reinvent the wheel
 
-- Working smart: create, contribute or fork?
-  - Talk to the users
-  - Don’t reinvent the wheel
+Working smart: create, contribute or fork?
+
+Identifying potential users
 
 ### {{ site.assignment }} Do some research on projects similar to yours!
 

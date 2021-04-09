@@ -16,9 +16,11 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Content
-- What are the absolute basics of an open project?
-- Introduction of things we discuss in detail later in the program
 
-### {{ site.assignment }} Do something!
+- What are the absolute basics of your project?
+- The concept of prototypes and MVP
+- Introduction of OHspecifics that we discuss in next module
+
+<!--### {{ site.assignment }} Do something!-->
 
 ### Resources

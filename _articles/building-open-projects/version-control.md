@@ -4,7 +4,7 @@ title: "Version control"
 module: "3.2"
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/template-module/version-control.md
+following: _articles/template-module/modularity.md
 summary: "A key tool for efficient collaborative work"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"
@@ -16,11 +16,13 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Content
-- Introduction into version control systems
+
+- Introduction to version control systems
   - Why is it important?
   - use cases and examples
-- Versioning done right
+- Understanding versioning control (not throwing git commands like a monkey)
+- Available platforms
 
-### {{ site.assignment }} Determine how you implement version control in your project
+### {{ site.assignment }} Define how you implement version control in your project
 
 ### Resources

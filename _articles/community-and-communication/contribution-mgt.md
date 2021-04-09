@@ -16,16 +16,17 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Contents
-- Community management
-  - Contribution management
-    - Issue tracking
-    - Types of contributions/demands (what to accept, delay, etc)
-  - transferring ownership
+- Contributions workflow
+- What is a CONTRIBUTING.md
+- Issue tracking
+- Types of contributions/demands (what to accept, delay, etc)
+- Transferring ownership
 
 ### {{ site.assignment }} Prepare entry points for contributors
 
 - Define how you want to manage contributions
 - Create First Timers Only issues that walk newcomers through how to set up anything that may be required in the development environment (This can be done as part of the community call, as an exercise online)
+
 
 ### Resources
 - [A Coaching Guide for Mozillians](https://mozilla.github.io/coaching_training/lessons/feedback.html)
