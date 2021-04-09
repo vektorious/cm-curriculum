@@ -2,7 +2,7 @@
 layout: page
 title: "Licenses and Standards"
 module: "6"
-date: 2016-10-06 14:05:56
+date: 2021-04-07 14:05:56
 contents:
     - _articles/licenses-and-standards/how-licenses-work.md
     - _articles/licenses-and-standards/oh-licenses.md
@@ -20,12 +20,12 @@ Understand the different open licensing and certification options available and 
 <!--### Assignments (to be distributed among submodules)
 **Licensing**
 - Choose a license or several licenses depending on the types of content you are providing.
-- If you are using parts of other projects with licenses check if you attribute them correctly
-
+- If you are using parts of other projects with licenses check if you attribute them correctl
 **Findability**
 - Follow these instructions to create a .yml file to include your project in openknowhow.org (You can use this online form to create the .yml file)
-
 **Documentation**
 - Go through the standards and see which applies for your project
 - Revisit your documentation and adjust it.
-- Follow our checklist to update your documentation so it is one step closer to fulfill DIN SPEC 3105-->
+- Follow our checklist to update your documentation so it is one step closer to fulfill DIN SPEC 3105
+-->
+

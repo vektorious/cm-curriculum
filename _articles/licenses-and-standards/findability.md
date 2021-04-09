@@ -23,4 +23,7 @@ materials: "Pen or pencil and paper"
 
 ### {{ site.assignment }} Add an open know how manifesto to your project
 
+- Follow [these instructions](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/wiki) to create a .yml file to include your project in [openknowhow.org](https://openknowhow.org) (You can use [this online form](https://okh.makernet.org/form) to create the .yml file)
+
 ### Resources
+- [Open Know-How manifest](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/src/branch/master/1)

@@ -2,7 +2,7 @@
 layout: page
 title: "Community and Communication"
 module: "7"
-date: 2016-10-06 14:05:56
+date: 2021-04-07 14:05:56
 contents:
     - _articles/community-and-communication/contribution-mgt.md
     - _articles/community-and-communication/governance.md
@@ -15,6 +15,7 @@ The way you manage contributions has a significant impact on your project roadma
 
 ### Goal of the week
 Define the processes that will allow your project to manage input from users and collaborators, while keeping it a welcoming and friendly space
+
 <!--
 ### Assignments (to be distributed among submodules)
 **Communication**
@@ -26,3 +27,4 @@ Define the processes that will allow your project to manage input from users and
 - Write up some community guidelines (Code of Conduct) and be prepared to enforce them. If you don't know where to start, take a look at this very detailed example from Mozilla.
 - Define how you want to manage contributions
 - Create First Timers Only issues that walk newcomers through how to set up anything that may be required in the development environment-->
+
