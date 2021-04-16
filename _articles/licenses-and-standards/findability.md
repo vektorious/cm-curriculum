@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Findability"
+title: "Findability standards"
 module: "6.4"
 date: 2016-10-06 14:05:56
 time: "20 min"

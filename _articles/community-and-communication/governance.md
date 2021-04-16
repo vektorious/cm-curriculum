@@ -4,7 +4,7 @@ title: "Governance models"
 module: "7.2"
 date: 2021-04-07 14:05:56
 time: "20 min"
-following: _articles/OHM-outro.md
+following: _articles/community-and-communication/outreach.md
 summary: "An overview of decision-making systems for open projects"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"

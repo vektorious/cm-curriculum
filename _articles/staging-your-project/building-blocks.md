@@ -4,7 +4,7 @@ title: "Building Blocks overview"
 module: "2.3"
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/staging-your-project/canvas.md
+following: _articles/staging-your-project/first-impressions.md
 summary: "An overview of the constitutive elements of an open hardware project"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"

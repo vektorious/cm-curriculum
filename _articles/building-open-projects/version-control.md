@@ -4,7 +4,7 @@ title: "Version control"
 module: "3.2"
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/template-module/modularity.md
+following: _articles/building-open-projects/modularity.md
 summary: "A key tool for efficient collaborative work"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"

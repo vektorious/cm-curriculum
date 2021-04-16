@@ -4,7 +4,7 @@ title: "Open pathways"
 module: "8.3"
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/OHM-outro/self-assessment.md
+following: _articles/resources.md
 summary: "Thinking of your project in the mid- and long-term"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"

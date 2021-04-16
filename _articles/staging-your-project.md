@@ -7,7 +7,7 @@ contents:
   - _articles/staging-your-project/purpose.md
   - _articles/staging-your-project/working-smart.md
   - _articles/staging-your-project/building-blocks.md
-  - _articles/staging-your-project/canvas.md  
+  - _articles/staging-your-project/first-impressions.md
 following: _articles/staging-your-project/purpose.md
 ---
 

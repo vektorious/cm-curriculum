@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Open hardware standards"
+title: "Documentation standards"
 module: "6.3"
 date: 2016-10-06 14:05:56
 time: "20 min"
