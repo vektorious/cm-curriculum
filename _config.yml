@@ -1,8 +1,8 @@
 title: Open Hardware Makers Curriculum
-subtitle:
-email:
+#subtitle:
+email: ohwmakers@gmail.com
 twitter: https://twitter.com/openHWmakers
-chat:
+#chat:
 description: > # this means to ignore newlines until "baseurl:"
   Open Hardware Makers is a mentorship program teaching best practices for Open Source Hardware
 baseurl: "" # the subpath of your site, e.g. /blog

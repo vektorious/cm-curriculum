@@ -416,7 +416,7 @@ html.no-js .sidebar .collapsible-content {
 
 #content img {
   max-width:100%;
-  border:1px solid #CCC;
+  /*border:1px solid #CCC;*/
 }
 
 #content h4 {

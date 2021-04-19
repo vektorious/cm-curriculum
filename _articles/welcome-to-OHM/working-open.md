@@ -64,10 +64,13 @@ Good open projects provide clear guidelines and a coherent process so new contri
 
 ### Responsible innovation
 
+<<<<<<< HEAD
 From Mozilla open leaders “book”
 “When you open your project, you may have an audience in mind (for example, software developers, educators, scientists or activists)… but you may want to reach a much broader community! Many people outside of your target audience may be interested in your project. People from all walks of life and professions– writers, designers, artists, journalists, parents, citizen scientists– may have valuable contributions to offer. Clearly communicating information about your project will enable others to understand and participate.”
 
 
+=======
+>>>>>>> gh-pages
 - What's "responsible innovation"?
 - Why it matters?
 - What does this mean for my project in concrete terms?

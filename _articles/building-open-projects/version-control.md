@@ -17,10 +17,13 @@ materials: "Pen or pencil and paper"
 
 ### Content
 
+<<<<<<< HEAD
 Version control is a very useful tool for long term projects that see changes and improvements over time. It allows to track changes made to files and documents in a project over time. This in turn gives developers and users the opportunity to see the development history, bring back some changes made in the past, and many other things. In this case a project could be a book that is being written, or a recipe for a delicious plate, and also of course, an open hardware project. 
 Developed initially by and for software developers working on big collaborative projects, version control is a piece of software that tracks changes in your  
 
 
+=======
+>>>>>>> gh-pages
 - Introduction to version control systems
   - Why is it important?
   - use cases and examples
