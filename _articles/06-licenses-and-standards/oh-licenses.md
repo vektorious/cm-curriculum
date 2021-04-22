@@ -4,7 +4,7 @@ title: "Open Hardware licenses"
 module: "6.2"
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/licenses-and-standards/oh-standards.md
+following: _articles/06-licenses-and-standards/oh-standards.md
 summary: "Learn about the available options and their differences"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"

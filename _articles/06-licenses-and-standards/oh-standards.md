@@ -4,7 +4,7 @@ title: "Documentation standards"
 module: "6.3"
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/licenses-and-standards/findability.md
+following: _articles/06-licenses-and-standards/findability.md
 summary: "And why do we need them"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"

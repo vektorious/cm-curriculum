@@ -4,11 +4,11 @@ title: "Licenses and Standards"
 module: "6"
 date: 2021-04-07 14:05:56
 contents:
-    - _articles/licenses-and-standards/how-licenses-work.md
-    - _articles/licenses-and-standards/oh-licenses.md
-    - _articles/licenses-and-standards/oh-standards.md
-    - _articles/licenses-and-standards/findability.md
-following: _articles/licenses-and-standards/how-licenses-work.md
+    - _articles/06-licenses-and-standards/how-licenses-work.md
+    - _articles/06-licenses-and-standards/oh-licenses.md
+    - _articles/06-licenses-and-standards/oh-standards.md
+    - _articles/06-licenses-and-standards/findability.md
+following: _articles/06-licenses-and-standards/how-licenses-work.md
 ---
 
 ### Description
