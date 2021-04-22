@@ -4,11 +4,11 @@ title: "Open Hardware Specifics"
 module: "4"
 date: 2016-10-06 14:05:56
 contents:
-    - _articles/open-hardware-specifics/accessible-docs.md
-    - _articles/open-hardware-specifics/bom.md
-    - _articles/open-hardware-specifics/digital-fab.md
-    - _articles/open-hardware-specifics/user-guide.md
-following: _articles/open-hardware-specifics/accessible-docs.md
+    - _articles/04-open-hardware-specifics/accessible-docs.md
+    - _articles/04-open-hardware-specifics/bom.md
+    - _articles/04-open-hardware-specifics/digital-fab.md
+    - _articles/04-open-hardware-specifics/user-guide.md
+following: _articles/04-open-hardware-specifics/accessible-docs.md
 
 ---
 Documenting open hardware projects isn’t the same as documenting software development. As a basic example, when building a physical object, having a proper description of the materials used and why they were chosen makes it easier for everyone to use it, modify it or replicate it. 

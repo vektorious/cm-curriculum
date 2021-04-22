@@ -4,11 +4,11 @@ title: "Welcome to OHM"
 module: 1
 date: 2016-10-06 14:05:56
 contents:
-  - _articles/welcome-to-OHM/working-open.md
-  - _articles/welcome-to-OHM/brief-history.md
-  - _articles/welcome-to-OHM/pathways.md
-  - _articles/welcome-to-OHM/canvas.md  
-following: _articles/welcome-to-OHM/working-open.md
+  - _articles/01-welcome-to-OHM/working-open.md
+  - _articles/01-welcome-to-OHM/brief-history.md
+  - _articles/01-welcome-to-OHM/pathways.md
+  - _articles/01-welcome-to-OHM/canvas.md  
+following: _articles/01-welcome-to-OHM/working-open.md
 ---
 
 Before you start this section, be sure to read the OHM Basics for information about how this training series is structured, and what you’ll need to begin.

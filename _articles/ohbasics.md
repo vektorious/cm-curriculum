@@ -2,11 +2,11 @@
 layout: page
 title: "OHM Basics"
 contents:
-  - _articles/ohbasics/who-for.md
-  - _articles/ohbasics/our-approach.md
-  - _articles/ohbasics/structure-schedule.md
-  - _articles/ohbasics/guidelines.md
-following: _articles/ohbasics/who-for.md
+  - _articles/00-ohbasics/who-for.md
+  - _articles/00-ohbasics/our-approach.md
+  - _articles/00-ohbasics/structure-schedule.md
+  - _articles/00-ohbasics/guidelines.md
+following: _articles/00-ohbasics/who-for.md
 ---
 
 ### What is OHM?
