@@ -4,7 +4,7 @@ title: "Findability standards"
 module: "6.4"
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/community-and-communication.md
+following: _articles/07-community-and-communication.md
 summary: "How to help others find your project"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"

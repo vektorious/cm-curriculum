@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "First impressions matter"
-module: "3.1"
+module: "2.4"
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/building-open-projects.md
+following: _articles/03-building-open-projects.md
 summary: "Building a README that invites contributors"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"

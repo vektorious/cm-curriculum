@@ -4,7 +4,7 @@ title: "User guides"
 module: "4.4"
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/roadmapping.md
+following: _articles/05-roadmapping.md
 summary: "Documenting for the end users of your project"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"

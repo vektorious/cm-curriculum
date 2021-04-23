@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Participation guidelines"
-following: _articles/welcome-to-OHM.md
+following: _articles/00-welcome-to-OHM.md
 ---
 
 Open Hardware Makers aims to create a diverse, global community working to enhance the sharing of open hardware. Because of this diversity, it is important to be intentional about providing respectful, equitable spaces — both online and in person — for our community to come together and engage in constructive, respectful discourse.
