@@ -22,5 +22,6 @@ materials: "Pen or pencil and paper"
 - Assessing progress and monitoring indicators
 
 ### {{ site.assignment }} “Reverse-plan” and list the milestones, responsibilities and timeline for achieving your goal
+- Define your core goals in a time span of 1 to 2 years from today
 
 ### Resources
