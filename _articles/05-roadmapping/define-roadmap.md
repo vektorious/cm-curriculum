@@ -3,7 +3,7 @@ layout: page
 title: "Defining a roadmap"
 module: "5.1"
 date: 2021-03-29 21:02
-time: "20 min"
+time: "30 min"
 following: _articles/05-roadmapping/planning-progress.md
 summary: "Short introduction to roadmapping"
 prereq: "Have completed all previous sections and modules"
@@ -25,17 +25,29 @@ As you make your Roadmap, you may realize there are dependencies among different
 
 ### HOWTO roadmap
 
-- define Goals
-- define time span
-- define Milestones
-- set deadlines
+When you start building your roadmap, it is usually easier to do it reversed: Start from your goals and plan backwards. Break up the long path into smaller pieces and define intermediate goals: your milestones. Milestones can also mark important dates such es external deadlines or events (e.g. a conference where you want to present your project). As with a long road, you should add as many details as possible to close milestones and rather outline more distant milestones. You can always add more details and additional milestones as you work on your project. Estimate the amount of time you'll need to reach the milestones and define their timeframe. Try to be realistic and account for possible detours, problems and troubleshooting. Time planing and management is probably the hardest part of roadmap creation. That's why we dedicated a whole submodule to this topic. The final step is to set deadlines for your milestones, at least for the close ones. However, this depends on your projects goals and whether you want to follow an agile strategy (constant reassessment and adjustment of your goals and milestones) or not (rather fixed roadmap and timeline with predefined milestones).
+
+In short:
+1. Define the goal of your project
+2. Define several intermediate goals (milestones). Add as many details as possible.
+  - Development goals (specific features or resources you want to create)
+  - Meetings and events.
+3. Define time spans for your milestones
+4. Add deadlines to your milestones
+
 
 ### Tools for roadmapping
 
-- Kanban boards
+Luckily there are plenty of tools available which can help you to create and maintain your roadmap and plan your project. A very common and accessible tool is a Kanban board. It visually depicts work at various stages of a process using cards to represent work items and columns to represent each stage of the process. A Kanban board can thus help you to focus on important tasks and to keep track of your short, medium and long-term goals. You can set up a Kanban board with a piece of paper and some sticky notes or use one of the many online tools. Read more about Kanban boards [here](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban-board). An free and easy digital Kanban tool is the [GitHub Project Board](https://docs.github.com/en/github/managing-your-work-on-github/tracking-the-progress-of-your-work-with-project-boards).
 
 ### {{ site.assignment }} Define a clear goal you want to achieve with your project.
 - Review of the project’s goal
+- Pick 1-3 milestones for your project.
+- List tasks to complete for each milestone
+  - Short description of each task required to successfully complete project work on a milestone.
+  - Explaination why you are doing this task (one sentence). This will reinforce your vision for the project and help others see why each step is meaningful in the larger timeline.
 
 
 ### Resources
+- [GitHub Project Boards](https://docs.github.com/en/github/managing-your-work-on-github/tracking-the-progress-of-your-work-with-project-boards)
+- [Into into Kanban Boards](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban-board)
