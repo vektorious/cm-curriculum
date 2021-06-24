@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "A minimal viable project"
-module: "3.4"
+module: "3.3"
 date: 2016-10-06 14:05:56
 time: "20 min"
 following: _articles/03-building-open-projects/docs-for-whom.md
