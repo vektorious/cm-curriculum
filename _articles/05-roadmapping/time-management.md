@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Managing time"
-module: "5.1"
+module: "5.3"
 date: 2016-10-06 14:05:56
 time: "20 min"
 following: _articles/05-roadmapping/evaluating-risks.md
