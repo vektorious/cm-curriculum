@@ -12,14 +12,31 @@ materials: "Pen or pencil and paper"
 <p align="center">
 <img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>
 </p>
+
 * TOC
 {:toc}
 
-### Contents
-- Why is time management important?
-- Sustainability & burn out in open source
-- Learning to delegate/contributors pathways
-- Tips and tools
+
+### Why is time management important?
+
+One of the biggest issues in open projects is the lack of time to implement all ideas and features that would bring the project forward. The fact that a lot of open projects are made by one or a few people in their free time, does not help with the time issue. 
+
+This is why focusing on time management is important. As a very precious and scarce resource, one should make sure it is used efficiently and in a way that is sustainable. 
+
+### Sustainability & burn out in open source
+
+
+
+### Learning to delegate/contributors pathways
+
+One of the best skills to learn when developing an open project is learn to delegate tasks, and create pathways for contributions. Remember, time is a really importnat resource, so if people who are willing to give their time a project, they should really be cherished and have the feeling that their contributions are appreciated. 
+
+Therefore, it is very important to think of issues and create "tracks of issues" that are clear, concise and actionable, where people can understand right away what is needed. This way they can implement solutions and share them with the project. 
+
+This might be a bit hard in the beginnning as it involves releasing some control of the project, but it certainly pays off as with more contributions and contributors a project gains momentum and a network of people willing to dedicate time to bring the project forward. 
+
+
+### Tips and tools
 
 ### {{ site.assignment }} Think of contributors' pathways for your project
 
