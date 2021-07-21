@@ -27,10 +27,10 @@ Modularity is also useful within the project, as a certain module can be used mo
 
 In short, once a module has been developed, it can be used by other projects (which increases the chances of that module being improved/supported over time), again in the same project and over time, in different projects by the same developers. Last but not least, this also helps with sorting components, as different projects with the same modules will require similar components.
 
-(ADD SOMETHING ABOUT "MIX AND MATCH" OF MODULES TO QUICKLY TEST THINGS?)
+
 
 ### Examples and use cases
-  NEEDS WORK
+
 
 ### {{ site.assignment }} Review your project in terms of modularity
 

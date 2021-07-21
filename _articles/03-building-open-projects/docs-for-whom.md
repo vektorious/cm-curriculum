@@ -51,7 +51,7 @@ Luckily there are other formats available that are more friendly towards these t
 
 We highly recommend projects to adopt Markdown as their writing format, BUT if you cannot invest the time to learn and use it at the moment, stick to the tool you are most comfortable with! After all, the MOST MOST important thing is that you document your project and share it in an easy to access editable format so that others can contribute to it!
 
-##### language is different (NOTE ANDRE: not sure what this means)
+##### language is different
 
 
 ### {{ site.assignment }} Make a plan for your documentation
