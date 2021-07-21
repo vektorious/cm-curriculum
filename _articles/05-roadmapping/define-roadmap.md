@@ -33,4 +33,4 @@ Before you start a roadmap for your project, you should be sure about it's goal 
 
 ### Resources
 - [GitHub Project Boards](https://docs.github.com/en/github/managing-your-work-on-github/tracking-the-progress-of-your-work-with-project-boards)
-- [Into into Kanban Boards](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban-board)
+- [Intro into Kanban Boards](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban-board)
