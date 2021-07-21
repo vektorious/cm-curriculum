@@ -28,11 +28,7 @@ One important point to observe from open source projects is that due to their di
 
 If there were standards for open source hardware that was widely used by the community, then everyone could benefit from streamlined productions and repairability of existing hardware, easiness in navigating the documentation of different projects, and having an easier time finding open source hardware (as today there are so many different platforms that could host OSH projects, but no common indexed system for searching them).
 
-Luckily the issue of standardisation is not new, and countries/regions have their own standardisation systems, which means that standardisation in OSH does not have to start from zero and there is at least one standard for OSH that worked together with the DIN (add translation) to create the DIN standard for OSH documentation. These documents can be found here and here and outline how documentation should be prepared to conform with these DIN standards. One thing to note is that the DIN Spec for OSH was made with an industry/commercialisation goal in mind, so conforming with this spec is not complicated, but a bit time consuming….
-
-…..
-
-
+Luckily the issue of standardisation is not new, and countries/regions have their own standardisation systems, which means that standardisation in OSH does not have to start from zero and there is at least one standard for OSH that worked together with the DIN (add translation) to create the DIN standard for OSH documentation. These documents can be found here and here and outline how documentation should be prepared to conform with these DIN standards. One thing to note is that the DIN Spec for OSH was made with an industry/commercialisation goal in mind, so conforming with this spec is not complicated, but a bit time consuming.
 
 
 ### {{ site.assignment }} Bring your documentation closer to a chosen standard
