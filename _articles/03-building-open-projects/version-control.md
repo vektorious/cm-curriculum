@@ -17,22 +17,76 @@ materials: "Pen or pencil and paper"
 
 ### Introduction to version control systems
 
-Very likely the most known use case of version control comes from the software industry, where many different people are working on the same project at the same time. This makes it almost impossible to simply share one set of files around where each person would make changes to the files and then pass them on to the next one.
+Think about the times you worked in collaboration with someone, where you were both writing in the same word document. It was a bit cumbersome, right? You most likely had to take turns, so not to overwrite/redo the same part of the text the other was working on. On top of that there were many versions of the file being created, so that you could keep track of the most recent version. 
 
-To solve this limitation, version control systems were created, so that people could simultaneously work on the same project and not lose track of what has been changed, where, by whom and why. It makes managing a project much easier as contributors can share the changes they have made and original projects developers can decide to take those changes on the project or not (and if not, share back with the contributors why).
+This is quite unefficient and confusing!! What was the last version? Was it my turn to be working on this? So many potential opportunities for errors and time lost.
 
-### TODO
-- History of git?
-- Why is it important and what is is it useful for
-- use cases and examples
-- Understanding versioning control (not throwing git commands like a monkey)
-- Available platforms
-  One of the most used version control systems out there is GIT.
+And this is just talking about two people working in one file. Can you imagine projects with multiple files and many different contributors? It becomes almost impossible to work together and collaborate!
 
-  - Dropbox, gdocs, Nextcloud, Github, Gitlab, Bitbucket
+### Why is it important and what is is it useful for
+
+Luckly a solution for this type of issue has been created. Called version control system (VCS), it keeps track of file changes, who made then, at what time, and in which part of the file. 
+
+The direct benefits of using a VCS are: 
+ - your project just needs one copy of each file
+ - you can go "back in time" and see what changes were made and when (and also bring some changes of the past to the most recent version of your project)
+ - all collaborators in a project can work on it at the same time and add their changes to the project without the risk of accidentally overwritting someone else's work, or working on an old version of the files. 
+
+Another very important feature of VCS systems is that it also flags and indicates to users when two changes made create a "conflict". For example, both you and your colleague changed the same part in a text at the same time.
+
+In such a conflict case, the version control system would highlight the part that is in overlapping and block further changes until someone looks at it and decides which text to use (or even merge both versions of the text into a new one).
+
+There are many other useful features of VCS, but to avoid an information overload, interested readers can find useful links below on the [resources section](#resources)
+
+
+
+### use cases and examples
+
+Very likely the most known use case of version control comes from the software industry, where many different people are working on the same project at the same time, and the files created sometimes have thousands of lines.
+
+People outside the software industry most likely have come accross VCS when they use cloud services. Google Drive and Dropbox have built-in version control. This is normally presented to users as a "restore" function, so that older versions of a certain file can be brought back and displayed as the most recent one. 
+
+
+
+### Understanding GIT version control
+
+For OHM we suggest users to take a look and understand GIT so that they can use it on their project workflow. Just one of many VCS systems but by far the most used, having a project that is running with GIT VCS allows others to promptly contribute to your project and also allows newcomers to leverage the many online tutorials and the many people in this community that use GIT on a daily basis and can offer help.
+
+Initially users should understand three main GIT commands: 
+- git add
+- git commit 
+- git push
+
+These commands will respectively:
+- add changes made to files to a "staging area"
+- commit those changes to the version control history and allow them to be tracked
+- push those changes to an online version of your own repository (most likely hosted on GitHub or GitLab)
+
+more details about git and getting started can be found in the [resources section](#resources).
+
+
+### Available platforms
+
+For GIT the most widely used platforms are
+- [GitHub](https://github.com)    
+- [GitLab](https://gitlab.com)
+
+
+### History of git?
+
+
+
+
+
+
+
+
 
 
 
 ### {{ site.assignment }} Define how you implement version control in your project
 
 ### Resources
+[version control with GIT](http://swcarpentry.github.io/git-novice/)
+[learn GIT](https://www.atlassian.com/git)
+[dang it git!](https://dangitgit.com/)

@@ -21,10 +21,15 @@ materials: "Pen or pencil and paper"
 
 One of the biggest issues in open projects is the lack of time to implement all ideas and features that would bring the project forward. The fact that a lot of open projects are made by one or a few people in their free time, does not help with the time issue. 
 
-This is why focusing on time management is important. As a very precious and scarce resource, one should make sure it is used efficiently and in a way that is sustainable. 
+This is why focusing on time management is important. As a very precious and scarce resource, one should make sure it is used efficiently and in a way that is sustainable, since as project grows and new users come in, more and more time is needed to answer questions, resolve unexpected issues, onboard new contributors.
 
 ### Sustainability & burn out in open source
 
+A common issue in open projects is the small number of people working on each project, and the fact that a lot of them start as "spare-time projects", that is, developers start them on their free time, sometimes as a hobby and/or because it is something that they find interesting.  
+
+If a project grows and more people start using it, the time needed to maintain this project (as mentioned above) also grows. When these are hobby/spare time projects, they put an extra load on developers, that have to deal with it after they've had a full working day and/or on the weekends. Depending on the developer approach to the project, what was a fun time activity, is now another obligation, and in some cases, could lead to burn out, making everyone unhappy.  
+
+This is why it is important to plan for sustainability, onboarding new developers, thinking about ways to get compensated for working on the project (so people can be hired and/or developers could slowly turn their hobbies into full time work activity), and figuring out a way to work efficiently. 
 
 
 ### Learning to delegate/contributors pathways
