@@ -15,8 +15,8 @@ materials: "Pen or pencil and paper"
 * TOC
 {:toc}
 
-### Content
-- Digital fabrication
+
+### Digital fabrication
     - Editable formats
       - Mentee must understand that the open hardware best practices and definition are not bureaucracies that must be filled, it’s guidelines that make openness stronger.
       - FOSH religious approaches

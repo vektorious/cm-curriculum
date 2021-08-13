@@ -15,15 +15,20 @@ materials: "Pen or pencil and paper"
 * TOC
 {:toc}
 
-### Content
 
-#### Minimal viable documentation for users
+
+### Minimal viable documentation for users
   
-  - Tutorials
-  - Examples
-  - FAQ
-  - Where to find downloads and stuff
-  - Formats
+#### Tutorials
+
+#### Examples
+
+#### FAQ
+
+#### Where to find downloads and stuff
+
+#### Formats
+
 
 ### {{ site.assignment }} Write a minimal viable documentation for users
 

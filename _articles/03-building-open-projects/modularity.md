@@ -31,7 +31,11 @@ In short, once a module has been developed, it can be used by other projects (wh
 
 ### Examples and use cases
 
+One good example of modularity comes from the world of hobby electronics, where companies sell "breakout boards". This little boards, normally contain all the components necessary to perform a specific function. For example, you could buy an [DC motor/Stepper motor controller](https://www.adafruit.com/product/2927), learn how to use it to control the axis on a 3D printer, but later on use the same module to control the motor that drives the wheels in a toy car.
 
 ### {{ site.assignment }} Review your project in terms of modularity
 
 ### Resources
+- [modular design wikipedia](https://en.wikipedia.org/wiki/Modular_design)
+- [modular hardware explained](https://resources.pcb.cadence.com/blog/2020-what-is-modular-hardware)
+- [modular design for embbeded systems](https://www.toradex.com/blog/introducing-modularity-in-embedded-design?gclid=CjwKCAjwsNiIBhBdEiwAJK4khqsUEicW8ThJyKv_fBBH9KH4BTQRXG184uIM-_eKS0qxsCrQ5usCRRoCHwUQAvD_BwE)

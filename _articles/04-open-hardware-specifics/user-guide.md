@@ -18,12 +18,13 @@ materials: "Pen or pencil and paper"
 ### Content
 
 
-- Minimal viable documentation for users
-  - Tutorials
-  - Examples
-  - FAQ
-  - Where to find downloads and stuff
-  - Formats
+### Minimal viable documentation for users
+
+#### Tutorials
+#### Examples
+#### FAQ
+#### Where to find downloads and stuff
+#### Formats
 
 ### {{ site.assignment }} Write a minimal viable documentation for users
 

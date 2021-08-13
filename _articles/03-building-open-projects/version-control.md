@@ -28,11 +28,11 @@ And this is just talking about two people working in one file. Can you imagine p
 Luckly a solution for this type of issue has been created. Called version control system (VCS), it keeps track of file changes, who made then, at what time, and in which part of the file. 
 
 The direct benefits of using a VCS are: 
- - your project just needs one copy of each file
+ - you don't need several copies of the same file, as VCS takes care of showing you what is the most up to date version, or if you are working on something that has been already updated by someone else
  - you can go "back in time" and see what changes were made and when (and also bring some changes of the past to the most recent version of your project)
- - all collaborators in a project can work on it at the same time and add their changes to the project without the risk of accidentally overwritting someone else's work, or working on an old version of the files. 
+ - all collaborators in a project can work on it at the same time and add their changes to the project without the risk of accidentally overwritting someone else's work. 
 
-Another very important feature of VCS systems is that it also flags and indicates to users when two changes made create a "conflict". For example, both you and your colleague changed the same part in a text at the same time.
+Another very important feature of VCS systems is that it also flags and indicates to users when two changes created a "conflict". For example, both you and your colleague changed the same part in a text at the same time, the VCS would flag it, and "say" - someone needs to take an extra look at this, since there are overlapping changes.
 
 In such a conflict case, the version control system would highlight the part that is in overlapping and block further changes until someone looks at it and decides which text to use (or even merge both versions of the text into a new one).
 
@@ -67,14 +67,14 @@ more details about git and getting started can be found in the [resources sectio
 
 ### Available platforms
 
-For GIT the most widely used platforms are
+For GIT the most widely used platforms are:  
 - [GitHub](https://github.com)    
 - [GitLab](https://gitlab.com)
 
 
-### History of git?
+### History of git
 
-
+Git was born out of a need in the Linux Kernel community and has an interesting story, given that it is an open source tool, created to help manage an another open source project, and it is now one of the most widely used tools for software development and open collaborations. Interested people can find a nice short version of its history [here](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git)
 
 
 
@@ -87,6 +87,6 @@ For GIT the most widely used platforms are
 ### {{ site.assignment }} Define how you implement version control in your project
 
 ### Resources
-[version control with GIT](http://swcarpentry.github.io/git-novice/)
-[learn GIT](https://www.atlassian.com/git)
-[dang it git!](https://dangitgit.com/)
+- [Version control with GIT](http://swcarpentry.github.io/git-novice/)  
+- [Learn GIT](https://www.atlassian.com/git)  
+- [Dang it git!](https://dangitgit.com/)  
