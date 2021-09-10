@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Open Hardware Canvas"
-module: "2.4"
+module: "1.4"
 date: 2016-10-06 14:05:56
 time: "20 min"
 following: _articles/02-staging-your-project.md
