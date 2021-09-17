@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Developer guides"
-module: "4.4"
+module: "4.5"
 date: 2016-10-06 14:05:56
 time: "20 min"
 following: _articles/05-roadmapping.md
@@ -18,7 +18,7 @@ materials: "Pen or pencil and paper"
 
 
 ### Minimal viable documentation for users
-  
+
 #### Tutorials
 
 #### Examples

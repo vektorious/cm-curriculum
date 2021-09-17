@@ -52,6 +52,12 @@ Luckily there are other formats available that are more friendly towards these t
 We highly recommend projects to adopt Markdown as their writing format, BUT if you cannot invest the time to learn and use it at the moment, stick to the tool you are most comfortable with! After all, the MOST MOST important thing is that you document your project and share it in an easy to access editable format so that others can contribute to it!
 
 <!--##### language is different -->
+<!--
+This was in "working open" but better fits here, doesn't it?
+From Mozilla open leaders “book”
+“When you open your project, you may have an audience in mind (for example, software developers, educators, scientists or activists)… but you may want to reach a much broader community! Many people outside of your target audience may be interested in your project. People from all walks of life and professions– writers, designers, artists, journalists, parents, citizen scientists– may have valuable contributions to offer. Clearly communicating information about your project will enable others to understand and participate.”
+
+-->
 
 
 ### {{ site.assignment }} Make a plan for your documentation
