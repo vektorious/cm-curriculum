@@ -28,16 +28,16 @@ Here are some examples of different current platforms:
 ##### **(note from Andre: not sure if this is interesting in this format, but if it is, needs to be expanded)**
 
 
-|Paltform|main interest|note|
+|Platform|main interest|note|
 |--|--|--|
-|thingiverse.com|3D printing|allows users to share design files for parts that can be 3D printed|
-|hackaday.io|hardware in general|allows users to share design files for complete projects, no matter how simple or complex they are|
-|NHS 3D print exchange|3D printing| focused on medical/research/educational models|
-|Instructables.com|Instructions in general (for building hardware or not)|freemium model|
-|Wikifactory|||
-|Wikifab|||
-|GitHub|||
-|GitLab|||
+|[thingiverse.com](https://thingiverse.com)|3D printing|allows users to share design files for parts that can be 3D printed|
+|[hackaday.io](https://hackaday.io)|hardware in general|allows users to share design files for complete projects, no matter how simple or complex they are|
+|[NIH 3D print exchange](https://3dprint.nih.gov/)|3D printing| focused on medical/research/educational models|
+|[Instructables.com|Instructions in general (for building hardware or not)|freemium model|
+|[Wikifactory](https://wikifactory.com/)|||
+|[Wikifab](https://wikifab.org/wiki/Accueil)|||
+|[GitHub](https://github.com)|||
+|[GitLab](https://about.gitlab.com/)|||
 
 
 

@@ -9,7 +9,7 @@ following: _articles/00-ohbasics/structure-schedule.md
 ### Flexible by design
 We are aware (and celebrate!) that open hardware projects are as diverse in their aims, strategies and needs as their makers. 
 
-With the vision of helping as many projects to become reusable as possible, we propose a series of <strong>principles and concrete practices that are applicable to any open hardware project.</strong> 
+With the vision of helping as many projects to become reusable as possible, we propose a series of **principles and concrete practices that are applicable to any open hardware project.** 
 
 These principles and practices include (but are not limited to):
 - Documentation

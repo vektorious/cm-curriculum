@@ -74,7 +74,9 @@ For GIT the most widely used platforms are:
 
 ### History of git
 
-Git was born out of a need in the Linux Kernel community and has an interesting story, given that it is an open source tool, created to help manage an another open source project, and it is now one of the most widely used tools for software development and open collaborations. Interested people can find a nice short version of its history [here](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git)
+Git was born out of a need in the Linux Kernel community and has an interesting story, given that it is an open source tool, created to help manage an another open source project, and it is now one of the most widely used tools for software development and open collaborations. 
+
+Interested readers can find a nice short version of its history [here](https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git)
 
 
 

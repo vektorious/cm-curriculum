@@ -56,3 +56,7 @@ In this unit we are going to see how sharing things early and often can be benef
 
 
 ### Resources
+- [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
+- [Prototype](https://en.wikipedia.org/wiki/Prototype)
+- [Proof of concept](https://en.wikipedia.org/wiki/Proof_of_concept)
+

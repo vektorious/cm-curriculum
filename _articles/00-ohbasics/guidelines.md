@@ -47,23 +47,23 @@ Note that many forms of harassment do not look like physical or verbal abuse, bu
 
 #### Examples of online community behavior
 
-| **Do** | **Don&#39;t** |
+| **Do** | **Don't** |
 | --- | --- |
-| **Stay on topic** to make long threads easier to follow. | **Do not send unnecessary one-line responses** that effectively &quot;spam&quot; hundreds of people and lower the overall content quality of a conversation. (Exception: expressions of appreciation and encouragement!) |
+| **Stay on topic** to make long threads easier to follow. | **Do not send unnecessary one-line responses** that effectively "spam" hundreds of people and lower the overall content quality of a conversation. (Exception: expressions of appreciation and encouragement!) |
 | **Start a new thread to help others follow along.** Important if your response starts to significantly diverge from the original topic. | Do not respond with off-topic information, making it hard for the large group of readers to follow along. |
 | **Write short and literal subject lines** to help the readers of the list manage the volume of communication. | Humor and euphemisms in subject lines are easily misunderstood, although enthusiasm is welcome! |
 | **Mind your tone.** We are not having this conversation in person, so it is all the more important to maintain a tone of respect. | Do not write in an aggressive, disrespectful or mocking tone. Note: writing in all caps is regarded as shouting. |
 
 #### Examples of in-person community behavior
 
-| **Do** | **Don&#39;t** |
+| **Do** | **Don't** |
 | --- | --- |
 | Ask **permission to take pictures** and post about others on social media (_see Media Consent, below_). | Do not upload photos, tag or mention others online without their consent. |
-| Speak your own narrative, from your own unique experiences and culture. | **Do not imitate the cultural expressions of groups** you are not a member of, or dismiss people&#39;s experiences as illegitimate or merely personal. |
+| Speak your own narrative, from your own unique experiences and culture. | **Do not imitate the cultural expressions of groups** you are not a member of, or dismiss people's experiences as illegitimate or merely personal. |
 | **Use accessible language** to talk about your area of expertise. If others in the group seemed confused, slow down; stop and ask for input. | Do not present information in a way / language that no one else in the room can understand |
 | **Give everyone a chance to talk** , only interrupting if absolutely necessary – for example, for Code of Conduct violations or time updates. | Do not repeatedly disrupt a discussion. |
-| Stop, listen and ask for clarification if someone perceives your behavior or presentation as violating the Code of Conduct. | **Do not ignore or argue others&#39; request to stop** potentially harmful behavior, even if it was an accident or you don&#39;t mean it as it is being interpreted. |
-| Use words that accurately describe the situation rather than culturally or socially loaded terms – For example, &quot;The wind was ridiculously strong!&quot; instead of &quot;The wind was crazy!&quot; | **Do not use disability and mental/emotional health terminology** to describe a situation metaphorically, even if it seems normal to use it. |
+| Stop, listen and ask for clarification if someone perceives your behavior or presentation as violating the Code of Conduct. | **Do not ignore or argue others' request to stop** potentially harmful behavior, even if it was an accident or you don't mean it as it is being interpreted. |
+| Use words that accurately describe the situation rather than culturally or socially loaded terms – For example, "The wind was ridiculously strong!" instead of "The wind was crazy!" | **Do not use disability and mental/emotional health terminology** to describe a situation metaphorically, even if it seems normal to use it. |
 | **Ask** someone before you touch them, even when joking or greeting, unless the other person has given verbal consent. Hugs, cheek kisses, and handshakes are normal greetings in some cultures, but not in all cultures. | Do not initiate or simulate physical contact without consent, even if it seems normal. |
 | Use an even tone, rate, and volume of voice when disagreeing.  Note that differences will be common, and some will be irreconcilable in a diverse movement. | **Do not verbally or physically abuse** , harass, yell at, or intimidate any attendee, speaker, volunteer, or exhibitor. |
 | Use the **pronouns** people have specified for themselves. | Do not purposely misgender someone (ie, refusing to use their correct gender pronouns). |
