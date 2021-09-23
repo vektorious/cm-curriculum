@@ -16,7 +16,7 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 ### Content
-
+  - Building instructions/Assembly guide/Recipe
 
 ### Minimal viable documentation for users
 
