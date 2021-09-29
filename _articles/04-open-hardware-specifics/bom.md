@@ -53,10 +53,11 @@ Another good way of approaching the issue of material availability is to add mor
 
 ### Resources
 tools for making instructions/BOMs
-[gitbuilding](#)
-[Dokubricks](#)
-[hackaday.io](#)
-[instructables](#)
-[wikifab](#)
-[appropedia](#)
-[kitspace 1-click-BOM](#)
+[Gitbuilding](https://gitbuilding.io/)
+[Dokubricks](http://www.docubricks.com/)
+[Hackaday.io](https://hackaday.io/)
+[Instructables](https://www.instructables.com/)
+[Wikifab](https://wikifab.org/wiki/Accueil)
+[Appropedia](https://www.appropedia.org/Welcome_to_Appropedia)
+[Kitspace 1-click-BOM](https://kitspace.org/)
+[Wikifactory](https://wikifactory.com/)
