@@ -25,8 +25,7 @@ While starting your project and considering how to place it online, you probably
 Here are some examples of different current platforms:
 
 
-##### **(note from Andre: not sure if this is interesting in this format, but if it is, needs to be expanded)**
-
+##### **needs to be expanded**
 
 |Platform|main interest|note|
 |--|--|--|

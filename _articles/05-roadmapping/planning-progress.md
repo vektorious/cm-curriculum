@@ -56,5 +56,5 @@ Luckily there are plenty of tools available which can help you to create and mai
 - [Example Roadmap (STEM Role Model Database)](https://github.com/KirstieJane/STEMMRoleModels/issues/1)     
 - [Kanban boards](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban-board)      
 - [GitHub Project Board](https://docs.github.com/en/github/managing-your-work-on-github/tracking-the-progress-of-your-work-with-project-boards)
-- [GitLab Project Board](#)
-- [Trello](#)
+- [GitLab Project Board](https://docs.gitlab.com/ee/user/project/issue_board.html)
+- [Trello](https://trello.com/)
