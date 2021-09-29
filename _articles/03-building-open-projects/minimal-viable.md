@@ -45,11 +45,7 @@ In this unit we are going to see how sharing things early and often can be benef
   - Get a sense of project evolution as constant iteration and improvement over a working prototype is quite satisfying
   - Others to join and contribute to the project as things (as mentioned above) are broken down and shared as small actionable things that can serve as entry points for collaboration.
 
-
-<!-- ### Introduction of OHspecifics that we discuss in next module -->
-
-
-
+  More details on prototyping and digital fabrication will be explored in unit four, where we will focus on specific aspects of developing open source hardware projects. 
 
 ### {{ site.assignment }} review your project and create small actionable steps that will incrementally build it up.
 

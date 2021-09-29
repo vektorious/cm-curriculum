@@ -24,19 +24,24 @@ While starting your project and considering how to place it online, you probably
 
 Here are some examples of different current platforms:
 
-
-##### **needs to be expanded**
-
 |Platform|main interest|note|
 |--|--|--|
-|[thingiverse.com](https://thingiverse.com)|3D printing|allows users to share design files for parts that can be 3D printed|
-|[hackaday.io](https://hackaday.io)|hardware in general|allows users to share design files for complete projects, no matter how simple or complex they are|
+|[Open Hardware Observatory](https://en.oho.wiki/wiki/Home)|Open Hardware projects|A central location for open hardware projects including an index on how open/reproducible projects are|
+|[OSHWA certification directory](https://certification.oshwa.org/list.html)|Open Hardware projects|a list of open source hardware projects that have OSHWA certification|
+|[Prusa Research Repository](https://www.prusaprinters.org/)|3D printing|allows users to share design files for parts that can be 3D printed|
+|[Thingiverse](https://thingiverse.com)|3D printing|allows users to share design files for parts that can be 3D printed|
 |[NIH 3D print exchange](https://3dprint.nih.gov/)|3D printing| focused on medical/research/educational models|
 |[Instructables.com|Instructions in general (for building hardware or not)|freemium model|
-|[Wikifactory](https://wikifactory.com/)|||
-|[Wikifab](https://wikifab.org/wiki/Accueil)|||
-|[GitHub](https://github.com)|||
-|[GitLab](https://about.gitlab.com/)|||
+|[Wikifactory](https://wikifactory.com/)|Hardware in general|platform to create instructions and guidelines|
+|[Wikifab](https://wikifab.org/wiki/Accueil)|Hardware in general|platform to create instructions and guidelines|
+|[Instructables](https://www.instructables.com)|Hardware in general|platform to create instructions and guidelines|
+|[Hackaday.io](https://hackaday.io)|hardware in general|allows users to share design files for complete projects, no matter how simple or complex they are|
+|[GitHub](https://github.com)|Software and hardware projects|platform for hosting git repositories|
+|[GitLab](https://about.gitlab.com/)|Software and hardware project|platform for hosting git repositories|
+|[Appropedia](https://www.appropedia.org/Welcome_to_Appropedia)|Hardware in general|Appropriate technologies wiki|
+|[Open Neuroscience](https://open-neuroscience.com)|OS projects for Neurosciences|several hardware projects|
+
+
 
 
 

@@ -31,3 +31,10 @@ Keep in mind where to share which file formats. While users might be fine with e
 ### {{ site.assignment }} Revisit your contribution guidelines and files format, adjust if needed
 
 ### Resources
+
+#### Guides:
+- [Digital fabrication 101](https://formlabs.com/uk/blog/digital-fabrication-101/)
+- [CNC machining](https://get-it-made.co.uk/guides/cnc-machining-guide/)
+- [3D printing](https://3dprintingindustry.com/3d-printing-basics-free-beginners-guide)
+- [Laser Cutting](https://makerdesignlab.com/tutorials-tips/laser-cutting-beginners-guide/)
+  
