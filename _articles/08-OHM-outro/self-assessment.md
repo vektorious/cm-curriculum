@@ -15,13 +15,11 @@ materials: "Pen or pencil and paper"
 * TOC
 {:toc}
 
-### Content
-
-- The importance of periodic self assessment
-- Assessing your project progress/assessing your own growth and needs
-- How to work with asseessment in teams
-- Giving useful feedback
-- Working on received feedback 
+### The importance of periodic self assessment
+### Assessing your project progress/assessing your own growth and needs
+### How to work with asseessment in teams
+### Giving useful feedback
+### Working on received feedback 
 
 ### {{ site.assignment }} Complete the self-assessment exercise
 

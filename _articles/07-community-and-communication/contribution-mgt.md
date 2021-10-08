@@ -15,12 +15,12 @@ materials: "Pen or pencil and paper"
 * TOC
 {:toc}
 
-### Contents
-- Contributions workflow
-- What is a CONTRIBUTING.md
-- Issue tracking
-- Types of contributions/demands (what to accept, delay, etc)
-- Transferring ownership
+
+### Contributions workflow
+### What is a CONTRIBUTING.md
+### Issue tracking
+### Types of contributions/demands (what to accept, delay, etc)
+### Transferring ownership
 
 ### {{ site.assignment }} Prepare entry points for contributors
 

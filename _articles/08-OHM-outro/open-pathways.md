@@ -15,12 +15,12 @@ materials: "Pen or pencil and paper"
 * TOC
 {:toc}
 
-### Content
-- Thinking of your project in the mid and long term and how it relates to your roadmap
+
+### Thinking of your project in the mid and long term and how it relates to your roadmap
   - The tech - Future modifications or new branches or forks or whatever
   - The community - Is engaging super important now?
   - Funding needs?
-- Examples of different pathways for OH projects for the future, with clear cases
+### Examples of different pathways for OH projects for the future, with clear cases
   - Industry: DIN SPEC attestation
   - Community: whatever community (GOSH or Makers, whatever)
   - Add it to the list of OSH on wikipedia and boost your SEO (https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)

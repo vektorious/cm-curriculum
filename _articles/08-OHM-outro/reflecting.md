@@ -15,8 +15,8 @@ materials: "Pen or pencil and paper"
 * TOC
 {:toc}
 
-### Content
-- Reflecting on your program experience
+
+### Reflecting on your program experience
   - Look at the canvas, where did you start, where are you now?
   - Expectation vs reality
   - Mentoring experience

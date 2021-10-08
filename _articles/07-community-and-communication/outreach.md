@@ -18,14 +18,14 @@ materials: "Pen or pencil and paper"
 
 ### Contents
 
-- Communication - getting the message out there
-- Communication channels
-- Good documentation as a way of communicating
-- Increase involvement
-    - Webinars/Workshops
-    - Tutorials
-    - Presentations
-    - Forum
+### Communication - getting the message out there
+### Communication channels
+### Good documentation as a way of communicating
+### Increase involvement
+  - Webinars/Workshops
+  - Tutorials
+  - Presentations
+  - Forum
 
 ### {{ site.assignment }} Create a communication piece for the demo call
 
