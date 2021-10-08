@@ -9,9 +9,7 @@ summary: "Identifying critical factors your project depends on"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"
 ---
-<p align="center">
-<img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>
-</p>
+
 * TOC
 {:toc}
 
@@ -37,4 +35,4 @@ Coupling this "thought experiment" with the idea suggested in the previous units
 ### Resources
 
 - [Project Risk Management - How to Manage Project Risk](https://onlinepmcourses.com/ultimate-guide-to-project-risk-management/)
-- [The Project Risk Management Process | 5 Tips for Success](https://www.northeastern.edu/graduate/blog/project-risk-management/)
+- [The Project Risk Management Process](https://www.northeastern.edu/graduate/blog/project-risk-management/)
