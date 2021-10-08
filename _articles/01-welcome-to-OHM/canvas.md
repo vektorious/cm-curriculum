@@ -9,22 +9,32 @@ summary: "A tool to help you manage your projects"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"
 ---
-<p align="center">
-<img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>
-</p>
+
 * TOC
 {:toc}
 
 
-### Content
+### Introducing the Open Hardware Canvas
 
-Introducing the Open Hardware Canvas
+The Open Hardware Canvas is a way of clarifying your hardware project idea and encouraging you to think strategically about project goals, plans, and resources you’ll need. It’s adapted from Mozilla's Open Canvas, which in turn was adapted from Lean Canvas (derivatives, anyone?).
 
-- Why it is useful?
-- How to use it 
-- https://github.com/ohwmakers/ohcanvas
+The OH Canvas is a one-page format used for describing your project. Mozilla's canvas incorporated all the collaborative aspects of open projects; we incorporated all the hardware-specific components. This means you get, with a simple look, all the vital information of your project in terms of management, collaboration and hardware specifics.
+
+The permanent home of the Open Hardware Canvas, where you will find the latest version, is in GitHub: https://github.com/ohwmakers/ohcanvas 
+
+### How to use the canvas
+
+To make an Open Hardware Canvas, you’ll fill a one-page template with information about your project. Here’s a sample of the Open Hardware Canvas template, with descriptions of the information required in each section.
+
+<EXAMPLE>
+
 
 ### {{ site.assignment }} Fill out the Open Hardware Canvas
-- Share the canvas with your mentor
+
+1. Go to https://github.com/ohwmakers/ohcanvas
+2. Download `ohcanvasbeta.jpg` and edit it with any slides/image editor, or make a copy of the google docs template as indicated in the repository
+3. Read the description of what goes in each field and complete what you can. 
+
+If you don’t yet know some of the information that goes in the boxes, it's OK. You can leave user channels, contributor profiles and channels boxes blank for now if you don’t have that information. We’ll go over those items in later Sections. Try to complete most boxes with what you can, the idea is that you review and refine the canvas as we move through this training series.
 
 ### Resources
