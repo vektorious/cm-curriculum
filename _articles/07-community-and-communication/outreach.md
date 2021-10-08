@@ -16,8 +16,6 @@ materials: "Pen or pencil and paper"
 {:toc}
 
 
-### Contents
-
 ### Communication - getting the message out there
 ### Communication channels
 ### Good documentation as a way of communicating
