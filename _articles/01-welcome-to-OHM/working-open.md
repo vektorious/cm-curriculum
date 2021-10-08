@@ -59,12 +59,6 @@ On an open project with a sizable community of enthusiastic contributors, you mi
 
 Good open projects provide clear guidelines and a coherent process so new contributors know what to do and what to expect as they make their first contributions. It’s helpful to have roles– even if these are lightweight and somewhat flexible– so it’s clear who contributors can go to for help or who might approve or review a contribution they make. Any power structures or decision making processes need to be transparent, so contributors feel encouraged to participate meaningfully in shaping the direction of the project.
 
-### Responsible innovation
-
-- What's "responsible innovation"?
-- Why it matters?
-- What does this mean for my project in concrete terms?
-
 ### {{ site.assignment }} Reflecting on how openness benefits your project
 
 We will be discussing more about these aspects of working open in each of the modules of the program. For now, we want you to reflect on:

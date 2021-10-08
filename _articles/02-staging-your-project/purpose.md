@@ -38,7 +38,9 @@ Question 3 makes you think about users. Who is going to use your hardware projec
 
 Finally, question 4 asks about your motivation to work on this project to make you think of what would be different if your project already existed. Sometimes people refer to this as the vision of their project, or if the project is the road, where do we get at the end? Which is the difference for your users, communities, even the world!
 
-Your project, and your vision for it, will be the basis for all the work you do in this series; you may find you need to return to it for clarity and inspiration when you get lost in the details or encounter stumbling blocks. You might discover you need to tweak your vision as your project evolves. Revisit your vision statement often, and get in the habit of using it when you talk to newcomers to your project.If you are working in a group, it is a good idea to brainstorm around these questions, and understand if there's consensus on these foundational ideas.
+You can use your answers to these questions as a mini pitch that synthetizes your project vision. We will work on this in the assignment. Your project, and your vision for it, will be the basis for all the work you do in this series; you may find you need to return to it for clarity and inspiration when you get lost in the details or encounter stumbling blocks. You might discover you need to tweak your vision as your project evolves. 
+
+Revisit your vision statement often, and get in the habit of using it when you talk to newcomers to your project. If you are working in a group, it is a good idea to brainstorm around these questions, and understand if there's consensus on these foundational ideas.
 
 
 ### {{ site.assignment }} Write a vision statement for your project
@@ -47,11 +49,11 @@ Think about these four questions and put your answers together in a short statem
 
 Incorporating your responses, write your vision or mission statement in a short, simple format. Feel free to tweak the format. Color coding is added here for clarity, to indicate each key piece of information and where it appears in the statement:
 
->>I’m working with [community, allies, contributors] to [make, build, teach, or do something] so that [audience, end users, consumers, community members] can [do something different, achieve a goal]
+> I’m working with [community, allies, contributors] to [make, build, teach, or do something] so that [audience, end users, consumers, community members] can [do something different, achieve a goal]
 
 Sample Statement:
 
->> I’m working with public school teachers in Boston to teach computational thinking and creative coding skills to public school students so that they can use and create with technology to actively shape their own futures.
+> I’m working with public school teachers in Boston to teach computational thinking and creative coding skills to public school students so that they can use and create with technology to actively shape their own futures.
 
 Tips for writing your vision statement:
 

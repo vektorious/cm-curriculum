@@ -31,13 +31,27 @@ Some open hardware projects are not intended to be products, and are born for ex
 
 In each of these areas, business, education, science, collective action, art... Open hardware becomes a powerful tool to achieve different purposes. Although you are probably only in an initial stage, it is convenient to start looking at which is the purpose of your project, and how it relates to others out there. But no worries, we will learn more about that in the next module.
 
+### Innovating with responsibility in mind
+
+Responsible innovation is a process that takes the wider impacts of research and innovation into account while we are developing technology:
+
+> “Responsible innovation means taking care of the future through collective stewardship of science and innovation in the present." (Stilgoe, Owen and Macnaghten, 2013).
+
+It means taking into account effects and potential impacts on the environment and society of our innovations, because as many historic lessons tell us innovation has the ability to produce knowledge and value, but also unintended consequences, questions, ethical dilemmas and social transformations.
 
 ### {{ site.assignment }} Expectations
 
-For now, think about the different pathways your project could take:
+Reflect on the following questions:
 
-- Would you like to turn your project into a commercial product? Or are you looking to document an educational project, share your latest art, communicate a powerful advocacy tool?
+- Which are the pathways you'd like your project to take? Would you like to turn your project into a commercial product? Or are you looking to document an educational project, share your latest art, communicate a powerful advocacy tool?
+- Which could be intended and unintended consequences of your project success? Consider users, their environment, the whole life cycle of your project.
 
-Write 2 or 3 bullet points to discuss your expectations with your mentor.
+Write 2 or 3 bullet points to discuss this with your mentor, or if you are taking the course on your own, with a peer.
+
+
 
 ### Resources
+
+- Stilgoe, J., Owen, R., & Macnaghten, P. (2013). Developing a framework for responsible innovation. Research Policy, 42(9), 1568-1580. https://doi.org/10.1016/j.respol.2013.05.008
+
+- [A short video on Responsible Innovation](https://www.youtube.com/watch?v=GctwAff0lZY&t=15s)
