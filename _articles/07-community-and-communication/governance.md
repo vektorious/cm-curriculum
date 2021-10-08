@@ -15,7 +15,7 @@ materials: "Pen or pencil and paper"
 * TOC
 {:toc}
 
-### Contents
+
 ### What is a governance model 
 ### Why does it matter
 ### Examples from commmunityrule.info
