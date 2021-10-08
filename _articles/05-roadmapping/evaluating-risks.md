@@ -26,7 +26,6 @@ When defining your roadmap it is quite useful to spend some time considering wha
 With a rough first sketch of your roadmap it will be easier to evaluate what could affect your roadmap. Beyond the critical points you worked on above, what other things could affect your roadmap? This could be either small local things (for example, if a project relies on a certain season/weather, the roadmap timeline can be affected by variances on the onset of certain seasonal events, etc), or globals ones, like the microchip shortage experienced in 2020/2021.
 
 
-
 ### How to account for this eventualities
 
 Having thought about events that could affect your roadmap will allow you to also think about how to work around them so that they are the least disruptive to your project. Certainly there are events that will come as a surprise, as it is impossible to predict everything. However having dedicated at least a bit of time to figuring out potential alternatives moving forward will allow you to be more prepared for all kinds of events. 
@@ -36,3 +35,6 @@ Coupling this "thought experiment" with the idea suggested in the previous units
 ### {{ site.assignment }} Determine critical points and pitfalls in your roadmap
 
 ### Resources
+
+- [Project Risk Management - How to Manage Project Risk](https://onlinepmcourses.com/ultimate-guide-to-project-risk-management/)
+- [The Project Risk Management Process | 5 Tips for Success](https://www.northeastern.edu/graduate/blog/project-risk-management/)
