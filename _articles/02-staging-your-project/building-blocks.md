@@ -25,7 +25,7 @@ While you may have ideas or plans for an extended, enhanced version of your proj
 
 Depending on the type of approach you are taking, the first steps will vary. If you are creating original designs, you will probably want to make a proof of concept first - can your idea be achieved? Usually when you make a derivative you know the main concept works and you are looking to improve it, so you go directly to the next step, prototyping. 
 
-Prototyping is an incredibly valuable exercise that allows you to visualize how the project will function. It is a working interactive model of the end product that gives an idea of the design, navigation and layout. The ability to quickly and easily prototype an idea is one of the drivers behind the incredible number of open hardware projects we see today. 
+**Prototyping** is an incredibly valuable exercise that allows you to visualize how the project will function. It is a working interactive model of the end product that gives an idea of the design, navigation and layout. The ability to quickly and easily prototype an idea is one of the drivers behind the incredible number of open hardware projects we see today. 
 
 ### The minimum you need to make it open
  
@@ -39,7 +39,7 @@ So, the prototype will allow you to test how your idea will be developed and wor
 
 Think of this as a bird view of what you will see next, in each of the following sections. 
 
-<!-- ### {{ site.assignment }} Your minimum viable project -->
+### {{ site.assignment }} Your minimum viable project
 
 - Go back to your canvas, review what you wrote, see if you can put more detail into any of the boxes.
 
