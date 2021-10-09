@@ -19,32 +19,34 @@ In this submodule we are seeking to understand which are the basic elements that
 
 ### The minimum you need to get there
 
-The idea of introducing the open hardware canvas is to help you identify those minimum components, or needs and resources that are critical to create a simple version of your project that meets the key goals you defined. 
-
-While you may have ideas or plans for an extended, enhanced version of your project– for example you may want to eventually expand from successfully measuring noise levels to having a fancy dashboard for users to visualize data- it’s always best to build your proof of concept first. This way, you can test out the project and ensure the idea works before you spend lots of time and resources expanding it. If you find your project is too complex to fit into the Open Hardware Canvas model, it may be that you’re trying to do too much, and need to narrow your scope.
+While you may have ideas or plans for an extended, enhanced version of your project– for example you may want to eventually expand from successfully measuring noise levels to having a fancy dashboard for users to visualize data- it’s always best to start small first. This way, you can test out the project and ensure the idea works before you spend lots of time and resources expanding it. If you find your project is too complex to fit into the Open Hardware Canvas model, it may be that you’re trying to do too much, and need to narrow your scope.
 
 Depending on the type of approach you are taking, the first steps will vary. If you are creating original designs, you will probably want to make a proof of concept first - can your idea be achieved? Usually when you make a derivative you know the main concept works and you are looking to improve it, so you go directly to the next step, prototyping. 
 
-**Prototyping** is an incredibly valuable exercise that allows you to visualize how the project will function. It is a working interactive model of the end product that gives an idea of the design, navigation and layout. The ability to quickly and easily prototype an idea is one of the drivers behind the incredible number of open hardware projects we see today. 
+**Prototyping** is an incredibly valuable exercise that allows you to visualize how the project will function. The ability to quickly and easily prototype an idea is one of the drivers behind the incredible number of open hardware projects we see today. You will learn more about it in modules 3 and 4. 
 
 ### The minimum you need to make it open
  
-So, the prototype will allow you to test how your idea will be developed and worked. But which are the minimum requirements for your project to be **open**?
+The prototype will allow you to test how your idea could be developed and worked. But which are the minimum requirements for your project to be **open**?
+
+- **An overview/front page**: A description in plain language of what your project does and how to get involved, before getting too technical. 
+
+- **Original design files**: the necessary files anyone would need to modify your project, the heart of open hardware! Ideally, your open-source hardware project would be designed using a free and open-source software application (more on this in following sections). This includes, for example, 2D drawings or computer-aided design files (CAD), 3D designs, circuit board designs (schematics, layouts), component libraries. Exports are OK for helping visualization, but you have to share your files in **editable formats** so people can modify them.
+
+- **Bill of materials**: a list of necessary items to build your project, as detailed as possible, and whenever you can, indicating alternatives for parts that are difficult to source.
+
+- **Software and firmware**: if your project needs code to run, including the source, dependencies, version and state (stable or not?). 
+
+- **Instructions**: Your project documentation will have to include instructions for users, but also for contributors who want to build/tweak it. Including a design rationale helps contributors understand why you chose to do things in a certain way. More robust documentation makes it easier for downstream users to build, use, and iterate on your project. Best projects include documentation in multiple formats (pictures, videos), tutorials, and translations.
 
 - **Licenses**: Properly applying an open source hardware license to your project ensures that downstream users can use it. Licensing hardware is more complicated than licensing software, as hardware projects usually include hardware plus software, documentation, branding. Each different component requires a different type of license.
 
-- **Source files**: All the necessary files to be able to build your project and modify it. This means, source files in *editable formats*, including schematics, CAD designs, firmware, software. 
 
-- **Instructions**: More robust documentation makes it easier for downstream users to build, use, and iterate on your project. This includes a bill of materials, user guides, assembly instructions, contribution guides. Best projects include documentation in multiple formats, tutorials, translations.
-
-Think of this as a bird view of what you will see next, in each of the following sections. 
-
-### {{ site.assignment }} Your minimum viable project
+### {{ site.assignment }} Reviewing the canvas
 
 - Go back to your canvas, review what you wrote, see if you can put more detail into any of the boxes.
 
-- Do you already have ideas for prototypes? Document your drafts! Taking pictures is a great way to do it. 
+- Do you already have ideas for prototypes? Document your drafts! Taking pictures of drawings is a great way to do it. 
 
-- If you still don't know where to start, think of the non-negotiable features of your project. You will probably have to refer back to your vision and scope in order to prioritize.
 
 ### Resources
