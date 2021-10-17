@@ -15,7 +15,8 @@ materials: "Pen or pencil and paper"
 * TOC
 {:toc}
 
-
+Note from Alex:
+Check out "Developer Guide" before writing this section to reference some things.
 ### Contributions workflow
 ### What is a CONTRIBUTING.md
 ### Issue tracking
