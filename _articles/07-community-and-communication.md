@@ -9,12 +9,12 @@ contents:
     - _articles/07-community-and-communication/outreach.md
 following: _articles/07-community-and-communication/contribution-mgt.md
 ---
-If your project could benefit from having external contributors and a community, then you should make sure it is prepared in a way to attract them and make them feel welcome.
+As much as you’re driven by project creation, goals, and aims, in the end working open is really all about relationships: the working relationships you establish with your contributors, how those contributors come together to grow into a community, and how you as a leader can welcome them, and help them feel valued, engaged, and excited by the project. 
 
-The way you manage contributions has a significant impact on your project roadmap. Here we will take a look at concepts and tools that will help you polish your contributions workflow.
+In this module you’ll learn how to build two kinds of communities– the large, vibrant, ever changing and growing community of open project contributors, and smaller, closer-knit network of people who support your leadership. We will also go through some relevant concepts when growing communities that may not apply to your project right away, but that are useful for having in your project plans.
 
 ### Goal of the week
-Define the processes that will allow your project to manage input from users and collaborators, while keeping it a welcoming and friendly space
+Define the processes that will allow your project community to grow in a way that everyone gets something out from it, while fostering a welcoming and friendly space
 
 <!--
 ### Assignments (to be distributed among submodules)
