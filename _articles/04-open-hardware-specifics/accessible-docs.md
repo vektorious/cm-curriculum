@@ -9,9 +9,6 @@ summary: "This is a template module"
 prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"
 ---
-<p align="center">
-<img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>
-</p>
 * TOC
 {:toc}
 
@@ -35,7 +32,7 @@ materials: "Pen or pencil and paper"
 
 #### Video documentation
 
-  Another way to document your project is to make a video as you build it, as this is a more organic way of explaining to others what is going on, and how the build/development progress. 
+  Another way to document your project is to make a video as you build it, as this is a more organic way of explaining to others what is going on, and how the build/development progress.
 
   One point to watch out for is that it can be cumbersome to find a specific bit of a video, when a certain instruction was given. Therefore, make sure you make marks (timestamps) on your video that enable viewers an easy way to jump back and forward, checking/rechecking different steps.
 
