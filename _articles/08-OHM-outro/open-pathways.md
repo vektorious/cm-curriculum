@@ -26,6 +26,10 @@ materials: "Pen or pencil and paper"
   - Add it to the list of OSH on wikipedia and boost your SEO (https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects)
   - Science: derive a paper & propose it to the Journal of Open Hardware
 
+## Notes ##
+- Feedback button and feedback channel
+- Keeping contact <-> com Channels (GOSH Forum) https://forum.openhardware.science/c/communities/open-hardware-makers/38
+
 ### {{ site.assignment }} Define concrete next steps for your project after the program finishes
 
 ### Resources

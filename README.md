@@ -26,16 +26,8 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## Contributors
 
-The material this repository is based on what was written by [@zee-moz](https://github.com/zee-moz) and [@chadsansing](https://github.com/chadsansing). Many thanks to the wonderful contributors who've helped since to improve this series:
-
-* Holly Robbins ([@hvrobbins](https://github.com/hvrobbins))
-* Chad Sansing ([@chadsansing](https://github.com/chadsansing))
-* Robert Schaefer ([@schae234](https://github.com/schae234))
 
 
 ## License
 
 Non-software content in this project is licensed under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
-
-
-
