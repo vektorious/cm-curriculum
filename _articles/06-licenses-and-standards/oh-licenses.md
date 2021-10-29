@@ -29,16 +29,14 @@ Similar to open software licenses, developers have the opportunity of choosing f
 
 Each of the CERN variants try give users options in terms of how derivatives of their projects should be reshared. For example, one can think of the CERN-OHL-S as Similar to Creative Commons "share alike".
 
-All these licenses had a lot of thought put on them, by a many people that have been part, or working with open source projects for a long time, so choosing one is more a matter of how you want others to use your project and how they share derivatives. 
-
-[NOTE: add comment about date of last revision of licenses]
-
+Another main difference between these licenses is when their last version and revision came out, with the CERN v2.0 being the most recently reviewed. 
 ### Examples of projects using different licenses
 
 To give you a better idea of how different licenses are used in the existing projects, please have a look at these examples:
 
 - [OpenFlexure delta stage](https://gitlab.com/openflexure/openflexure-delta-stage).
-- 
+- [LED Zappelin'](https://github.com/BadenLab/LED-Zappelin)
+
 
 Other than these examples, a good source for more projects that are properly licensed and documented can be found on the [OSHWA repository](https://certification.oshwa.org/list.html)
 
