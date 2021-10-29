@@ -33,8 +33,14 @@ All these licenses had a lot of thought put on them, by a many people that have 
 
 [NOTE: add comment about date of last revision of licenses]
 
-- Examples of projects using different licenses
+### Examples of projects using different licenses
 
+To give you a better idea of how different licenses are used in the existing projects, please have a look at these examples:
+
+- [OpenFlexure delta stage](https://gitlab.com/openflexure/openflexure-delta-stage).
+- 
+
+Other than these examples, a good source for more projects that are properly licensed and documented can be found on the [OSHWA repository](https://certification.oshwa.org/list.html)
 
 ### {{ site.assignment }} Choose licenses for your project
 - Choose a license or several licenses depending on the types of content you are providing.
