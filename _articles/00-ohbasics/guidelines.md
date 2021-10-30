@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Participation guidelines"
-following: _articles/00-welcome-to-OHM.md
+following: _articles/01-welcome-to-OHM.md
 ---
 
 Open Hardware Makers aims to create a diverse, global community working to enhance the sharing of open hardware. Because of this diversity, it is important to be intentional about providing respectful, equitable spaces — both online and in person — for our community to come together and engage in constructive, respectful discourse.
 
-Our community guidelines are inspired by those of the [Gathering for Open Science Hardware (GOSH)](https://openhardware.sciece) community. They apply to all spaces where the mentorship program is run, both online and in person. 
+Our community guidelines are inspired by those of the [Gathering for Open Science Hardware (GOSH)](https://openhardware.sciece) community. They apply to all spaces where the mentorship program is run, both online and in person.
 
 Individuals who violate this Code may affect their ability to participate in the program, ranging from temporarily being placed into online moderation to, as a last resort, expulsion from the community or in-person events.
 
@@ -49,9 +49,9 @@ Note that many forms of harassment do not look like physical or verbal abuse, bu
 
 | **Do** | **Don't** |
 | --- | --- |
-| **Stay on topic** to make long threads easier to follow. | **Do not send unnecessary one-line responses** that effectively "spam" hundreds of people and lower the overall content quality of a conversation. (Exception: expressions of appreciation and encouragement!) |
-| **Start a new thread to help others follow along.** Important if your response starts to significantly diverge from the original topic. | Do not respond with off-topic information, making it hard for the large group of readers to follow along. |
-| **Write short and literal subject lines** to help the readers of the list manage the volume of communication. | Humor and euphemisms in subject lines are easily misunderstood, although enthusiasm is welcome! |
+| **Stay on topic** to make long issues/discussions/threads easier to follow. | **Do not send unnecessary one-line responses** that effectively "spam" hundreds of people and lower the overall content quality of a conversation. (Exception: expressions of appreciation and encouragement!) |
+| **Start a new issue/post/thread to help others follow along.** Important if your response starts to significantly diverge from the original topic. | Do not respond with off-topic information, making it hard for the large group of readers to follow along. |
+| **Write short and literal subject lines** to help the readers of the issue/post/thread manage the volume of communication. | Humor and euphemisms in subject lines are easily misunderstood, although enthusiasm is welcome! |
 | **Mind your tone.** We are not having this conversation in person, so it is all the more important to maintain a tone of respect. | Do not write in an aggressive, disrespectful or mocking tone. Note: writing in all caps is regarded as shouting. |
 
 #### Examples of in-person community behavior
@@ -88,5 +88,3 @@ Our triple notification standard for moderation means a point person from the or
 1. Email the person directly with a brief explanation of what was violated
 2. Send a summary email to the rest of the moderators group
 3. If it happened on a public way, notify the rest of participants that one of our members has been placed into moderation.
-
- 
