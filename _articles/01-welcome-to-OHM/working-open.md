@@ -14,7 +14,8 @@ materials: "Pen or pencil and paper"
 
 ### Why working open?
 
-Hi there, and welcome to the first module of Open Hardware Makers! Our program was born out of the need of a bridge, a helping hand that guides newcomers into the open hardware community. Our intention is that this bridge allows more, and different people, to create, contribute to and support open hardware projects. This is one of the core values of Open Hardware Makers: we envision the program as a tool for diversifying the open hardware community, making openness not only available but accessible for everyone.
+Hi there, and welcome to the first module of Open Hardware Makers!
+Our program was born out of the need of a bridge, a helping hand that guides newcomers into the open hardware community. Our intention is that this bridge allows more, and different people, to create, contribute to and support open hardware projects. This is one of the core values of Open Hardware Makers: we envision the program as a tool for diversifying the open hardware community, making openness not only available but accessible for everyone.
 
 As part of this vision, in Open Hardware Makers we consider working open is much more than making your hardware documentation available online.
 
@@ -67,5 +68,3 @@ We will be discussing more about these aspects of working open in each of the mo
 - How do you envision your project specifically benefiting from more community contribution and participation?
 
 Take 5 minutes to think about these questions and write down a few lines with your ideas to discuss with your mentor.
-
-### Resources
