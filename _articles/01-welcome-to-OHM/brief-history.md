@@ -34,7 +34,7 @@ Some open hardware projects and their communities became so popular that you wil
 
 Other communities gather around the field of application of what they are building. You will hear often about the Do It Yourself (DIY) or "maker" community, tweaking and creating designs for hobbist or educational purposes. When it comes to science, the Global Open Science Hardware ([GOSH](https://openhardware.science/)) community brings together people in or outside academia building tools for science and education. Networks like [Hackteria](https://www.hackteria.org/) gather lots of artists working with open hardware and DIY biology, while platforms like [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) collect open designs of tools for sustainable living. Open hardware is also growing more everyday in business applications, with early foundational projects like [OpenCores](https://opencores.org/), but also with more and more small businesses that in different domains recognize the value of openness for creating better products.
 
-Online communities also form around platforms for sharing designs ([Hackaday](https://hackaday.io/), [Instructables](https://www.instructables.com/), [Hackster](https://www.hackster.io/), KitSpace, etc) or tools needed for designing and building hardware. We will dive more into the specifics on module 4.
+Online communities also form around platforms for sharing designs ([Hackaday](https://hackaday.io/), [Instructables](https://www.instructables.com/), [Hackster](https://www.hackster.io/), [KitSpace](https://kitspace.org/), etc) or tools needed for designing and building hardware. We will dive more into the specifics on module 4.
 
 The diversity is huge and may feel a bit overwhelming in the beginning, but no worries: we will help you to connect your project and ideas to this super active world. Contributing to projects you like is one of the best ways to introduce yourself to the community!
 
@@ -48,3 +48,6 @@ Take a look at the list here.
 - Write 2-3 reasons why you think the project is interesting, and be ready to share with your peers in the next cohort call
 
 ### Resources
+- [Open Hardware Repository](https://ohwr.org/welcome)
+- [Open Knowhow](https://search.openknowhow.org/)
+- [History of GOSH](https://openhardware.science/about/gosh-history/)
