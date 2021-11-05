@@ -11,9 +11,7 @@ contents:
 following: _articles/02-staging-your-project/purpose.md
 ---
 
-As part of this module you will learn how to scope your project using our Open Hardware Canvas, which will guide you through the building blocks of an open hardware project. By looking at it, others should get a general idea about your project's main components (software, electronics, casing, bio materials, etc.), its status and stage, if you have a prototype already, which contributions you need and what you want to achieve.
-
-If you are following along as part of the mentorship program you will meet with your mentor this week! Share your open hardware canvas with them and discuss it at your meeting.
+As part of this module you will learn how to scope your project and why it's important to define it. You will hear about the different types of projects based on their relation to existing ones. We will guide you through the various building blocks you need to consider for building your open hardware project.
 
 ### Goal of the week
 Draft the scope of your project using the open hardware canvas, identify if you are creating, forking or contributing
