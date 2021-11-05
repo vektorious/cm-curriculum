@@ -7,11 +7,10 @@ following: _articles/00-ohbasics/structure-schedule.md
 {:toc}
 
 ### Flexible by design
-We are aware (and celebrate!) that open hardware projects are as diverse in their aims, strategies and needs as their makers. 
+We are aware (and celebrate!) that open hardware projects are as diverse in their aims, strategies and needs as their makers.
 
-With the vision of helping as many projects to become reusable as possible, we propose a series of **principles and concrete practices that are applicable to any open hardware project.** 
-
-These principles and practices include (but are not limited to):
+With the vision of helping as many projects to become reusable as possible, we propose a series of **principles and concrete practices that are applicable to any open hardware project.**
+These principles and practices are aligned with the latest work from the open hardware community, and include (but are not limited to):
 - Documentation
 - Discoverability
 - Use of standards
@@ -21,7 +20,7 @@ These principles and practices include (but are not limited to):
 To account for the specific set of expertise that each particular project demands, the program supports participants by **connecting them to a pool of experts** available in rounds of assessment. These experts can provide support in different domains (technical, community builders, business experts, etc.), allowing OHM to grow and continue supporting participants even when areas of expertise change rapidly or are replaced by new paradigms.
 
 ### Collaborative
-As a mentorship program, OHM is mostly structured around the mentor-mentee relationship. However, we consider that feedback and learning from fellow mentees is key in this journey. This is why the content of each module (except for the introductory one) takes two weeks of time, during which mentees work both with their mentors and with their fellow mentees through "peer review" exercises. 
+As a mentorship program, OHM is mostly structured around the mentor-mentee relationship. However, we consider that feedback and learning from fellow mentees is key in this journey. This is why the content of each module (except for the introductory one) takes two weeks of time, during which mentees work both with their mentors and with their fellow mentees through "peer review" exercises.
 
 
 ### Platform-agnostic

@@ -5,7 +5,7 @@ module: "1.2"
 date: 2016-10-06 14:05:56
 time: "20 min"
 following: _articles/01-welcome-to-OHM/pathways.md
-summary: "An introduction to the open hardware community"
+summary: "An introduction to open hardware communities"
 #prereq: "Have completed all previous sections and modules"
 materials: "Pen or pencil and paper"
 ---
@@ -27,14 +27,14 @@ As OSHWA mentions in its [brief history of open hardware](https://www.oshwa.org/
 
 To define its core values, the open hardware community drew inspiration from other communities working in similar spaces: the open source and free software movements, the ham radio tradition, the Homebrew Computer Club and hacker culture in general. At the same time, more specific communities working on open hardware for a particular use case (more about this later) take OSHWA's definition as a reference (and so do us, in Open Hardware Makers).
 
-Another acronym you will frequently hear about is CERN. And yes, we are talking about the [european organization for nuclear research](https://home.cern/). As early as 2008 a team at CERN started developing open hardware, emulating the practices of open source software teams. This work resulted in important early achievements, such as the open hardware repository and later on the CERN Open Hardware License (CERN-OHL). We'll learn more about this one and other licenses in module 6.
+Another acronym you will frequently hear about is CERN. And yes, we are talking about the [european organization for nuclear research](https://home.cern/). As early as 2008 a team at CERN started developing open hardware, emulating the practices of open source software teams. This work resulted in important early achievements, such as the open hardware repository and later on the CERN Open Hardware License ([CERN-OHL](https://cern-ohl.web.cern.ch/home)). We'll learn more about this one and other licenses in module 6.
 
 #### Communities and platforms
-Some open hardware projects and their communities became so popular that you will hear about them, or the paradigm they represent, really often. One of these examples is Arduino, which enabled thousands to prototype electronic designs in an accessible way. Another example of incredibly active people is the 3D printing community, where you can find contributors everywhere working on models that go from the first RepRap to one of its current popular grand-grand-daughters, Prusa.
+Some open hardware projects and their communities became so popular that you will hear about them, or the paradigm they represent, really often. One of these examples is [Arduino](https://www.arduino.cc/), which enabled thousands to prototype electronic designs in an accessible way. Another example of incredibly active people is the 3D printing community, where you can find contributors everywhere working on models that go from the first [RepRap](https://reprap.org/wiki/RepRap) to one of its current popular grand-grand-daughters, [Prusa](https://www.prusa3d.de/).
 
-Other communities gather around the field of application of what they are building. You will hear often about the Do It Yourself (DIY) or "maker" community, tweaking and creating designs for hobbist or educational purposes. When it comes to science, the Global Open Science Hardware (GOSH) community brings together people in or outside academia building tools for science and education. Networks like Hackteria gather lots of artists working with open hardware and DIY biology, while platforms like Appropedia collect open designs of tools for sustainable living. Open hardware is also growing more everyday in business applications, with early foundational projects like OpenCores, but also with more and more small businesses that in different domains recognize the value of openness for creating better products.
+Other communities gather around the field of application of what they are building. You will hear often about the Do It Yourself (DIY) or "maker" community, tweaking and creating designs for hobbist or educational purposes. When it comes to science, the Global Open Science Hardware ([GOSH](https://openhardware.science/)) community brings together people in or outside academia building tools for science and education. Networks like [Hackteria](https://www.hackteria.org/) gather lots of artists working with open hardware and DIY biology, while platforms like [Appropedia](https://www.appropedia.org/Welcome_to_Appropedia) collect open designs of tools for sustainable living. Open hardware is also growing more everyday in business applications, with early foundational projects like [OpenCores](https://opencores.org/), but also with more and more small businesses that in different domains recognize the value of openness for creating better products.
 
-Online communities also form around platforms for sharing designs (Hackaday, Instructables, Hackster, KitSpace, etc) or tools needed for designing and building hardware. We will dive more into the specifics on module 4.
+Online communities also form around platforms for sharing designs ([Hackaday](https://hackaday.io/), [Instructables](https://www.instructables.com/), [Hackster](https://www.hackster.io/), [KitSpace](https://kitspace.org/), etc) or tools needed for designing and building hardware. We will dive more into the specifics on module 4.
 
 The diversity is huge and may feel a bit overwhelming in the beginning, but no worries: we will help you to connect your project and ideas to this super active world. Contributing to projects you like is one of the best ways to introduce yourself to the community!
 
@@ -48,3 +48,6 @@ Take a look at the list here.
 - Write 2-3 reasons why you think the project is interesting, and be ready to share with your peers in the next cohort call
 
 ### Resources
+- [Open Hardware Repository](https://ohwr.org/welcome)
+- [Open Knowhow](https://search.openknowhow.org/)
+- [History of GOSH](https://openhardware.science/about/gosh-history/)
