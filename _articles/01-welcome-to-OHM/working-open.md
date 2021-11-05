@@ -42,7 +42,7 @@ By inviting a broad community to contribute to your project, you can integrate y
 
 - Working open can allow your project to achieve its maximum impact
 
-When you’re engaging contributors and target users from day one, your final product will launch to a built-in audience and be more likely to be supported, championed and sustained by contributors with a long history with the project. When you share your process and making ongoing work openly available on the web, others can build on your work, adapt your process or a part of your project for a novel use. Your project can have positive, transformative effects far beyond what you’re able to imagine.
+When you’re engaging contributors and target users from day one, your final product will launch to a built-in audience and be more likely to be supported, championed and sustained by contributors with a long history with the project. When you share your process and make ongoing work openly available on the web, others can build on your work, adapt your process or a part of your project for a novel use. Your project can have a positive, transformative effect far beyond what you’re able to imagine.
 
 ### ...and what it can't
 
@@ -54,7 +54,7 @@ In a successful open project, volunteers will contribute time, energy and work, 
 
 - Working open is not a way to hit your deadline faster
 
-On an open project with a sizable community of enthusiastic contributors, you might think that work gets done rapidly and efficiently. And in some instances that can be true. But you should be prepared for the reality that it takes time and energy build a functional community of people who work well together. You’ll spend less time working directly on the project while you coordinate contributors and contributions, a task that requires intention, mindfulness, and consistent effort.
+On an open project with a sizable community of enthusiastic contributors, you might think that work gets done rapidly and efficiently. And in some instances that can be true. But you should be prepared for the reality that it takes time and energy to build a functional community of people who work well together. You’ll spend less time working directly on the project while you coordinate contributors and contributions, a task that requires intention, mindfulness, and consistent effort.
 
 - Working open is not a way to avoid process or structure
 

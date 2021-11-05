@@ -27,7 +27,7 @@ Open hardware allows us to create tools in a certain transparent, sometimes coll
 
 Probably the most visible difference is that some open hardware projects are conceived as products from the very beginning and others not (although they may turn into products later). Therefore, these projects use some techniques that are closer to professional product design. Although you may not be creating a product, learning about these techniques can help you work in a more organized way.
 
-Some open hardware projects are not intended to be products, and are born for example as part of a master's student thesis, or as a project by a teacher who wants to get better results in the classroom. Or maybe they are the last cool invention from a hobbyist/maker, or a design by a community that needs to monitor the air pollution in their environment, and works together with scientists to develop a new artefacts adapted to their needs.  
+Some open hardware projects are not intended to be products, and are born for example as part of a master's student thesis, or as a project by a teacher who wants to get better results in the classroom. Or maybe they are the last cool invention from a hobbyist/maker, or a design by a community that needs to monitor the air pollution in their environment, and works together with scientists to develop new tools adapted to their needs.  
 
 In each of these areas, business, education, science, collective action, art... Open hardware becomes a powerful tool to achieve different purposes. Although you are probably only in an initial stage, it is convenient to start looking at which is the purpose of your project, and how it relates to others out there. But no worries, we will learn more about that in the next module.
 
