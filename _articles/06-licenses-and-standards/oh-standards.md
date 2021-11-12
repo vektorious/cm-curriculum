@@ -35,7 +35,7 @@ Luckily the issue of standardisation is not new, and countries/regions have thei
 
 - Go through the standards and see which applies for your project
 - Revisit your documentation and adjust it. 
-- Follow our checklist to update your documentation so it is one step closer to fulfill [DIN SPEC 3105](https://gitlab.com/OSEGermany/OHS/uploads/b35d1b22a3ec13f968de08c6b106cbda/DIN_SPEC_3105_v0.10.0.zip)
+- Follow our checklist to update your documentation so it is one step closer to fulfil [DIN SPEC 3105](https://gitlab.com/OSEGermany/OHS/uploads/b35d1b22a3ec13f968de08c6b106cbda/DIN_SPEC_3105_v0.10.0.zip)
 
 ### Resources
 Requirements for technical documentation of OSH (including licensing): https://gitlab.com/OSEGermany/OHS'What is the "Source" of Open Source Hardware?', J. Bonvoisin,  R. Mies,  J. Boujut, R. Stark
