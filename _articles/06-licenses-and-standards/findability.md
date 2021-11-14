@@ -47,7 +47,7 @@ That is, how can we make sure we have searched everywhere for a project before w
 
 Also, relying on Google for this is problematic from another stand point, where we do not know what kind of algorithms are being used to bring up results, and we become dependent on this "black box" that might as well be gone tomorrow for whatever reason.
 
-Luckly there are people working on solving this issue. Most prominent currently (as of 22/04/2021) is the [OpenKnowHow project](https://www.openknowhow.org/), which has organised a gathering with different networks working on open hardware so that they could collaboratively create and implement an [Open Hardware Standard](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/wiki), that is, among other things taking care of making OSH easier to find (see section below for more details).
+Luckily there are people working on solving this issue. Most prominent currently (as of 22/04/2021) is the [OpenKnowHow project](https://www.openknowhow.org/), which has organised a gathering with different networks working on open hardware so that they could collaboratively create and implement an [Open Hardware Standard](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/wiki), that is, among other things taking care of making OSH easier to find (see section below for more details).
 
 ### OpenKnowHow project and derivatives, and how to implement it
 

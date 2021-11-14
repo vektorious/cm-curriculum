@@ -32,12 +32,13 @@ Maybe this will become clearer with a practical recent example: 3D printers.
 
 ### Copyleft and non copyleft licenses
 
-As an alternative to patents and copyright, a lot of people have poured quite some time in creating licenses that, instead of putting a fence around an idea, make  the point of making sure the licensed project can be used by as many people as possible, making sure the original developers are credited and respected in how they would like their projects to be used and re-shared (eg, are commercial uses allowed, should derivative work be shared always under the same license - More details will be given through this unit). Some known examples of these licenses (sometimes bundled under the “copyleft” banner) are Creative Commons (CC) licenses, GNU General Public License  v3.0 and the CERN open hardware license.
+As an alternative to patents and copyright, a lot of people have poured quite some time in creating licenses that, instead of putting a fence around an idea, make  the point of making sure the licensed project can be used by as many people as possible, while crediting the original developers. Moreover, the licenses also establish how the work should be used (is commercial use allowed) and re-shared (should derivative work be shared always under the same license) - More details will be given through this unit). Some known examples of these licenses (sometimes bundled under the “copyleft” banner) are Creative Commons (CC) licenses, GNU General Public License  v3.0 and the CERN open hardware license.
 
 
 
 ### Elements of licenses (attribution, report back, etc)
 
+As mentioned above, licenses take care of  
 
 ### Licensing hardware design, licensing documentation, licensing software
 
