@@ -27,9 +27,9 @@ Similar to open software licenses, developers have the opportunity of choosing f
   - A weakly-reciprocal variant, [CERN-OHL-W](https://ohwr.org/cern_ohl_w_v2.pdf)
   - A permissive variant, [CERN-OHL-P](https://ohwr.org/cern_ohl_p_v2.pdf)
 
-Each of the CERN variants try give users options in terms of how derivatives of their projects should be reshared. For example, one can think of the CERN-OHL-S as Similar to Creative Commons "share alike".
+Each of the CERN variants try give users options in terms of how derivatives of their projects should be re-shared. For example, one can think of the CERN-OHL-S as Similar to Creative Commons "share alike".
 
-Another main difference between these licenses is when their last version and revision came out, with the CERN v2.0 being the most recently reviewed. 
+Another main difference between these licenses is when their last version and revision came out, with the CERN OHL v2.0 being the most recently reviewed. 
 ### Examples of projects using different licenses
 
 To give you a better idea of how different licenses are used in the existing projects, please have a look at these examples:

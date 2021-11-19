@@ -41,13 +41,13 @@ Here are some examples of different current platforms:
 
 ### The need for findability standards
 
-As the readers can see from the previous section, there is a large number of platforms available for sharing. While great for diversity and "consumer choice" this also creates an issue with findability. 
+There is a large number of platforms available for sharing. While great for diversity and "consumer choice" this also creates an issue with findability. 
 
 That is, how can we make sure we have searched everywhere for a project before we start something from scratch, and also, how can we make sure our project will be found by others? We tend to think that simply having a "google" for things will give us a pretty good overview of what is available, but this often times leads to projects being missed altogether, since sometimes they do not show in the first page of google. 
 
 Also, relying on Google for this is problematic from another stand point, where we do not know what kind of algorithms are being used to bring up results, and we become dependent on this "black box" that might as well be gone tomorrow for whatever reason.
 
-Luckly there are people working on solving this issue. Most prominent currently (as of 22/04/2021) is the [OpenKnowHow project](https://www.openknowhow.org/), which has organised a gathering with different networks working on open hardware so that they could collaboratively create and implement an [Open Hardware Standard](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/wiki), that is, among other things taking care of making OSH easier to find (see section below for more details).
+Luckily there are people working on solving this issue. Most prominent currently (as of 22/04/2021) is the [OpenKnowHow project](https://www.openknowhow.org/), which has organised a gathering with different networks working on open hardware so that they could collaboratively create and implement an [Open Hardware Standard](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/wiki), that is among other things, taking care of making OSH easier to find (see section below for more details).
 
 ### OpenKnowHow project and derivatives, and how to implement it
 
