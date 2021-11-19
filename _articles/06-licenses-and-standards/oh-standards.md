@@ -30,24 +30,23 @@ One way to decrease this complexity (which is not exclusive to OSH) is to create
 
 Another example of the benefits of standards, comes from the materials needed to build projects. No matter where you are in the world, buying an 3mm metric bolt will always give you something that fits in a thread designed for that bolt size. So even when we are not thinking about standards, we are making use of them. 
 
-In OSH, the first standards are starting to be created and gain traction, and they cover different aspects of hardware. We are going to cover three of the most prominent ones:
+In OSH, the first standards are starting to be created and gain traction, and they cover different OSH aspects. We are going to cover two of them:
 
-- The first standardisation we need is defining what exactly is open source hardware. In this case, this entails defining what kind of files should be shared (drawing, schematics, build plans, bill of materials, etc), in what format (editable X non-editable formats, proprietary X open formats, etc). 
+- The first standardisation we need is defining what exactly is open source hardware. In this case, this entails defining what kind of files should be shared (drawing, schematics, build plans, bill of materials, etc), in what format (editable X non-editable formats, proprietary X open formats, etc). The Open Source Hardware Association (OSHWA) has come up with a [definition](https://www.oshwa.org/definition/) (these has been translated in other languages - they can be found in the dropdown menu at the page header) for OSH covering these and other aspects. OSHWA also runs a certification program, which is free of charge and provides a way for developers to clearly display that their designs conforms with OSHWA's definition. This is quite useful for everyone, since users/collaborators/developers already know what to expect from the project's repository/documentation.
 
 - For hardware documentation, there is a [DIN](https://www.din.de/en) (Deutsches Institute fuer Normung - The German Institute for Standardization) specification, created by a joint effort of many people from the OSH community in collaboration with DIN. Specifically, it is [DIN SPEC 3105](https://gitlab.com/OSEGermany/OHS/uploads/b35d1b22a3ec13f968de08c6b106cbda/DIN_SPEC_3105_v0.10.0.zip). A general explanation on the standard and its potential impacts can be found here [DIN standard for OSH documentation](https://journalopenhw.medium.com/din-spec-3105-explained-2cce6134c207). One thing to note is that the DIN Spec for OSH was made with an industry/commercialisation goal in mind, so conforming fully with this specification is not complicated, but could can be a bit time consuming.
 
-- For hardware findability, there is an Open KnowHow standard, also created by a group of volunteers, this standard defines critical/minimal information that OSH projects should make available so they are easier to on the internet 
+<!-- ### {{ site.assignment }} Bring your documentation closer to a chosen standard-->
+### {{ site.assignment }} Update your documentation to make use of OSH standards
+<!-- - Go through the standards and see which applies for your project
+- Revisit your documentation and adjust it -->
+- OSHWA certification
+ - revisit your documentation and adjust it so that it is conforming with the [OSHWA certification](https://certification.oshwa.org/)(no need to submit for certification just yet!)
+- (optional) 3105 DIN specification
+ - update your documentation so it is one step closer to fulfil [DIN SPEC 3105](https://gitlab.com/OSEGermany/OHS/uploads/b35d1b22a3ec13f968de08c6b106cbda/DIN_SPEC_3105_v0.10.0.zip)
 
-
-
-Luckily the issue of standardisation is not new, and countries/regions have their own standardisation systems, which means that standardisation in OSH does not have to start from zero. There is at least one standard for OSH released by  to create the 
-
-
-### {{ site.assignment }} Bring your documentation closer to a chosen standard
-
-- Go through the standards and see which applies for your project
-- Revisit your documentation and adjust it. 
-- Follow our checklist to update your documentation so it is one step closer to fulfil [DIN SPEC 3105](https://gitlab.com/OSEGermany/OHS/uploads/b35d1b22a3ec13f968de08c6b106cbda/DIN_SPEC_3105_v0.10.0.zip)
+<!-- - 3105 DIN specification
+ - Follow our checklist to update your documentation so it is one step closer to fulfil [DIN SPEC 3105](https://gitlab.com/OSEGermany/OHS/uploads/b35d1b22a3ec13f968de08c6b106cbda/DIN_SPEC_3105_v0.10.0.zip)-->
 
 ### Resources
 Requirements for technical documentation of OSH (including licensing): https://gitlab.com/OSEGermany/OHS'What is the "Source" of Open Source Hardware?', J. Bonvoisin,  R. Mies,  J. Boujut, R. Stark
@@ -55,3 +54,4 @@ Additional Standards
 - [EN 45554 - standard for repairability](https://www.en-standard.eu/csn-en-45554-general-methods-for-the-assessment-of-the-ability-to-repair-reuse-and-upgrade-energy-related-products/)
 - [OSH DIN spec explained](https://journalopenhw.medium.com/din-spec-3105-explained-2cce6134c207)
 - [Open KnowHow](https://www.internetofproduction.org/open-know-how)
+- [What is OSHWA certification](https://certification.oshwa.org/process.html)

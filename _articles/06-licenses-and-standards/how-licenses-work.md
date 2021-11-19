@@ -62,7 +62,7 @@ When we consider open source hardware projects, licensing has a special angle, a
 We are going to cover this in more detail, but here is one example to get you thinking about this: Your project may be composed of 3D printed parts, some electronics and software to control those electronics. In this case, your project would need three licenses: One for the software code and for the 3D designs (here you could use one of the CC licenses, or GNU GPL), one for the hardware itself (here you could use the CERN OHL license), and one for other documentation, like building instructions, user guide, etc. (here you could use again CC licenses). 
 
 Make sure to check this module's resources for useful tools to help choosing licenses!
-    Cover the most common ones and tools to help people decide
+
 
 
 
@@ -91,8 +91,6 @@ From the comments → MARTIN has offered to write a TL-DR guide for licensing
 - https://en.wikipedia.org/wiki/Copyleft
 - https://en.wikipedia.org/wiki/Open-source_license
 - https://choosealicense.com/
-- https://ufal.github.io/public-license-selector/
-- https://www.gnu.org/licenses/license-recommendations.en.html
 - https://fossa.com/blog/how-choose-right-open-source-license/
 - https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
 - [How Open Hardware will take over the world](https://www.youtube.com/watch?v=Rfu_MKgu2Ik)

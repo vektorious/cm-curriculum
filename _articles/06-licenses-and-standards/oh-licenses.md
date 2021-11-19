@@ -38,7 +38,7 @@ To give you a better idea of how different licenses are used in the existing pro
 - [OpenFlexure delta stage](https://gitlab.com/openflexure/openflexure-delta-stage).
 - [LED Zappelin'](https://github.com/BadenLab/LED-Zappelin)
 
-Another good source for more projects that are properly licensed and documented can be found on the [OSHWA repository](https://certification.oshwa.org/list.html), where all listed projects have been checked by OSHWA and conform with their definition of open source hardware
+Another good source for projects that are properly licensed and documented can be found on the [OSHWA repository](https://certification.oshwa.org/list.html), where all listed projects have been checked by OSHWA and conform with their definition of open source hardware (OSHWA and its certification program will be covered in the "standards" unit in this module).
 
 ### {{ site.assignment }} Choose licenses for your project
 - Choose a license or several licenses depending on the types of content you are providing.
