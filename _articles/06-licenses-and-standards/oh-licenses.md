@@ -27,9 +27,10 @@ Similar to open software licenses, developers have the opportunity of choosing f
   - A weakly-reciprocal variant, [CERN-OHL-W](https://ohwr.org/cern_ohl_w_v2.pdf)
   - A permissive variant, [CERN-OHL-P](https://ohwr.org/cern_ohl_p_v2.pdf)
 
-Each of the CERN variants try give users options in terms of how derivatives of their projects should be re-shared. For example, one can think of the CERN-OHL-S as Similar to Creative Commons "share alike".
+Each of the CERN variants try give users options in terms of how derivatives of their projects should be re-shared. For example, the CERN-OHL-S requires derivative projects to be reshared under the same license. This is similar to Copyleft licenses, such as GNU GPL 3.0 and Creative Commons "share alike".
 
-Another main difference between these licenses is when their last version and revision came out, with the CERN OHL v2.0 being the most recently reviewed. 
+Another main difference between these licenses is when their last version and revision came out, with the CERN v2.0 being the most recently reviewed (as of 12/Nov./2021). 
+
 ### Examples of projects using different licenses
 
 To give you a better idea of how different licenses are used in the existing projects, please have a look at these examples:
@@ -37,15 +38,16 @@ To give you a better idea of how different licenses are used in the existing pro
 - [OpenFlexure delta stage](https://gitlab.com/openflexure/openflexure-delta-stage).
 - [LED Zappelin'](https://github.com/BadenLab/LED-Zappelin)
 
-
-Other than these examples, a good source for more projects that are properly licensed and documented can be found on the [OSHWA repository](https://certification.oshwa.org/list.html)
+Another good source for more projects that are properly licensed and documented can be found on the [OSHWA repository](https://certification.oshwa.org/list.html), where all listed projects have been checked by OSHWA and conform with their definition of open source hardware
 
 ### {{ site.assignment }} Choose licenses for your project
 - Choose a license or several licenses depending on the types of content you are providing.
-  - Remember a hardware project normally needs at least 3 licenses.
-- If you are using parts of other projects with licenses check if you attribute them correctly
+  - Remember a hardware project normally needs at least 3 licenses (hardware itself, software that accompanies the project, project documentation).
+- If you are using parts of other projects with licenses check if you are attributing them correctly and also that the licenses you chose for your project do not conflict with the licenses from the other projects you are remixing.
 
 ### Resources
 - ‘Licensing open source hardware’ by Michael Weinberg, in “Building open source hardware”
 - https://choosealicense.com/
 - ['Does your open hardware project need a license'](https://opensource.com/law/15/2/intro-open-hardware-licensing)
+- https://ufal.github.io/public-license-selector/
+- https://www.gnu.org/licenses/license-recommendations.en.html

@@ -50,7 +50,7 @@ As mentioned above, one of the features of Open Source licenses is that they pro
 
 Some licenses mandate that all derivatives and derivatives of derivatives must be shared under the same original license, generating what is called a "viral effect", where one original project can be the starting point of many derivative projects that in turn also require derivative work to be re-shared openly. These licenses are sometimes bundled under a "copyleft" classification. Examples here include Creative Commons Attribution Share Alike 4.0, GNU GPL 3.0, CERN Open Hardware Licence Version 2 - Strongly Reciprocal licenses.
 
-Licenses that do not specify how derivative work should be reshared are by exclusion, classified as "non-copyleft" licenses. In practical terms, this means that any derivative work from a certain project can be made private, which is completely fine from the point of view of the licenses, but it could lead to a missed opportunity in a community, where derivative and interesting work would not be available to all. Examples here include Creative Commons Attribution 4.0, MIT and CERN Open Hardware Licence Version 2 - Permissive licenses
+Licenses that do not specify how derivative work should be reshared are, by exclusion, classified as "non-copyleft" licenses. In practical terms, this means that any derivative work from a certain project can be made private, which is completely fine from the point of view of the licenses, but it could lead to a missed opportunity in a community, where derivative and interesting work would not be available to all. Examples here include Creative Commons Attribution 4.0, MIT and CERN Open Hardware Licence Version 2 - Permissive licenses
 
 
  
