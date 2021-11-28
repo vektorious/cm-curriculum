@@ -41,7 +41,7 @@ Here are some examples of different current platforms:
 
 ### The need for findability standards
 
-There is a large number of platforms available for sharing. While great for diversity and "consumer choice" this also creates an issue with findability. 
+There is a large number of platforms available for sharing. While great for diversity and "consumer choice" this also creates an issue when we are trying to find projects. 
 
 That is, how can we make sure we have searched everywhere for a project before we start something from scratch, and also, how can we make sure our project will be found by others? We tend to think that simply having a "google" for things will give us a pretty good overview of what is available, but this often times leads to projects being missed altogether, since sometimes they do not show in the first page of google. 
 
