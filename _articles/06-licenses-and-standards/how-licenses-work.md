@@ -3,11 +3,11 @@ layout: page
 title: "How licenses work"
 module: "6.1"
 date: 2021-04-07 14:05:56
-time: "30 min"
+#time: "30 min"
 following: _articles/06-licenses-and-standards/oh-licenses.md
 summary: "And how they can work for your project"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 <p align="center">
 <img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>

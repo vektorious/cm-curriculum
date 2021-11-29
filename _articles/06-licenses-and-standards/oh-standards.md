@@ -3,11 +3,11 @@ layout: page
 title: "Documentation standards"
 module: "6.3"
 date: 2016-10-06 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/06-licenses-and-standards/findability.md
 summary: "And why do we need them"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 <p align="center">
 <img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>

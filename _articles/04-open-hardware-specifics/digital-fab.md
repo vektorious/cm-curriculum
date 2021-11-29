@@ -3,11 +3,11 @@ layout: page
 title: "Digital fabrication & electronics"
 module: "4.3"
 date: 2016-10-06 14:05:56
-time: "5 min"
+#time: "5 min"
 following: _articles/04-open-hardware-specifics/user-guide.md
 summary: "Best practices for different fabrication methods & materials"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 * TOC
 {:toc}

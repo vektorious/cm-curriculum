@@ -3,11 +3,11 @@ layout: page
 title: "The Open Hardware Landscape"
 module: "1.2"
 date: 2016-10-06 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/01-welcome-to-OHM/pathways.md
 summary: "An introduction to open hardware communities"
 #prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#materials: "Pen or pencil and paper"
 ---
 * TOC
 {:toc}

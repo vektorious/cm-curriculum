@@ -3,11 +3,11 @@ layout: page
 title: "Working smart: create, contribute or fork?"
 module: "2.2"
 date: 2016-10-06 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/02-staging-your-project/building-blocks.md
 summary: "Ways of interacting with other open hardware projects"
-prereq: "Have completed all previous sections and modules"
-materials: "A computer with an internet connection"
+#prereq: "Have completed all previous sections and modules"
+#materials: "A computer with an internet connection"
 ---
 
 * TOC
