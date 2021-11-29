@@ -18,9 +18,11 @@ materials: "Pen or pencil and paper"
 
 ### Open hardware growth and multiple platforms/formats
 
-While starting your project and considering how to place it online, you probably realised that there is a large number of platforms available, that are specialised for sharing hardware projects. While this is great, since they each have their own particularities and are tuned to a certain audience, which makes it so that there is a place for all projects out there, it also generates the problem that it becomes hard to know where to deposit your project, and also where to find them.
+Hardware projects have grown at an XXXX pace over the last couple of years, in many different communities and spaces. Science, agriculture, fashion, sustainability, are some examples of specialised communities that are developing their own projects, platforms and tools for sharing. 
 
-Here are some examples of different current platforms:
+While this is great, since it shows how OSH is growing and becoming more and more diverse, it also makes the space a bit fragmented, as several niche platforms/communities develop and they might miss progresses and solutions created by "neighbouring" colleagues.
+
+As an example, some of these platforms are listed below, and visiting a couple of them shows the above point quite clearly. Some are specific to 3D printing, some have a wiki format, some only have projects that have been OSHWA certified (see unit XXXXX for more details on the OSWHA certification program).
 
 |Platform|main interest|note|
 |--|--|--|
@@ -39,9 +41,10 @@ Here are some examples of different current platforms:
 |[Appropedia](https://www.appropedia.org/Welcome_to_Appropedia)|Hardware in general|Appropriate technologies wiki|
 |[Open Neuroscience](https://open-neuroscience.com)|OS projects for Neurosciences|several hardware projects|
 
+
 ### The need for findability standards
 
-There is a large number of platforms available for sharing. While great for diversity and "consumer choice" this also creates an issue when we are trying to find projects. 
+This large number of platforms available for sharing create the need for an appropriate system to find projects. 
 
 That is, how can we make sure we have searched everywhere for a project before we start something from scratch, and also, how can we make sure our project will be found by others? We tend to think that simply having a "google" for things will give us a pretty good overview of what is available, but this often times leads to projects being missed altogether, since sometimes they do not show in the first page of google. 
 

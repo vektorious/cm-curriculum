@@ -41,9 +41,15 @@ Open Source licenses focus on XX main points:
   
   - Is derivative work allowed?
   - How is derivative work to be shared?
+  
+
 
 
 Open source licenses 
+
+
+
+
 ### Copyleft and non copyleft licenses
 
 As mentioned above, one of the features of Open Source licenses is that they provide a guideline on how derivative work should be re-shared, that is, should the derivative be shared under the same license and conditions, or can the derivative be shared under different licenses and conditions?
@@ -54,7 +60,6 @@ Licenses that do not specify how derivative work should be reshared are, by excl
 
 
  
-
 ### Licensing hardware design, licensing documentation, licensing software
 
 When we consider open source hardware projects, licensing has a special angle, as hardware projects can be composed of different “domains”, each having its pertinent license. 
@@ -64,18 +69,14 @@ We are going to cover this in more detail, but here is one example to get you th
 Make sure to check this module's resources for useful tools to help choosing licenses!
 
 
-
-
 There are a number of licenses available for all sorts of different purposes. In this module and in this program, we are going to stick to mainly four of them
 CERN
 CC
 MIT / GNU GPL
 
-There are so many options! How would I know what license to choose??
+<!-- There are so many options! How would I know what license to choose??
 From the comments → MARTIN has offered to write a TL-DR guide for licensing
-
-----
-
+-->
 
 
 
