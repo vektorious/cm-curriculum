@@ -51,3 +51,6 @@ The following elements should appear in your guidelines. If you don't know the d
 Write up your contribution guideline. It is OK to leave some things empty for now. We will discuss a few of them again in detail in other sections.
 
 ### Resources
+- https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
+- https://opensource.creativecommons.org/contributing-code/
+- https://opensource.com/life/16/3/contributor-guidelines-template-and-tips
