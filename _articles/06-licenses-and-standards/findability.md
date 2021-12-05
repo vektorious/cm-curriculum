@@ -60,6 +60,9 @@ This increased findability is achieved when a small standardized text file (in Y
 
 Once a project has this file, a webcrawler finds and indexes it in a [searchable repository](https://search.openknowhow.org/) which serves as a unifying place for all the projects that live in many different platforms.
 
+
+[Appropedia](https://www.appropedia.org), a wiki portal hosting open source sustainability related projects, is a great example of the use and the development of a derivative of the Open KnowHow standard. Open KnowHow manifests can be downloaded from each project's page. Here is an example for an [grey water system](https://www.appropedia.org/AEF_greywater) 
+
 <!-- An implementation using the Open KnowHow standard can be seen in the Open Hardware Observatory-->
 
 ### {{ site.assignment }} Add an open know how manifesto to your project

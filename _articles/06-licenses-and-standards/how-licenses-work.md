@@ -27,30 +27,28 @@ Well known protection mechanisms are copyright law and patents. Which in their o
 Unfortunately, as a lot of things that do not get revised and updated, these systems have been shown to actually work against innovation, making the innovative process more expensive, slower and generating things that only reach a few hands. Moreover, when ideas are patented they also prevent people from working on them as a base for their work, so there is a smaller number of derivative work.
 
 Maybe this will become clearer with a practical recent example: 3D printers. 
-Fused deposition modeling 3D printing technology has been available since the 1980's when the first designs for creating a 3D printer using plastic filament as "ink" were patented by Stratasys. Over the next 30 years, while the patents were active, 3D printers were big, expensive machines, only available for companies with deep pockets. Also, there were only so many materials that could be printed on one of these machines. As soon as the patents expired, Prof. Adrian Boywer, a researcher at the University of Bath, released one of the first open source 3D printers, which kick-started the RepRap movement. Today, ~10 years after the first open source models were available, the 3D printing industry is worth 12.6 billion US Dollars, and 3D printers can be found in most places of the earth, and even at the International Space Station, where they are used to print replacement and repair parts. Moreover, they are available in all sorts of sizes, formats, and printing resolution (from meters to micrometers) and are capable of printing many different materials (such as plastics, concrete, chocolate, gels, metal, etc).
 
-As an alternative to patents and copyright, a lot of people have poured quite some time in creating licenses that, instead of putting a fence around an idea, make  the point of making sure the licensed project can be used by as many people as possible, while crediting the original developers. 
+Fused deposition modeling 3D printing technology has been available since the 1980's when the first designs for creating a 3D printer using plastic filament as "ink" were patented by Stratasys. Over the next 30 years, while the patents were active, 3D printers were big, expensive machines, only available for companies with deep pockets. Also, there were only so many materials that could be printed on one of these machines. As soon as the patents expired, Prof. Adrian Boywer, a researcher at the University of Bath, released one of the first open source 3D printers, kick-starting the RepRap movement. 
+
+Today, ~10 years after the first open source models were available, the 3D printing industry is worth 12.6 billion US Dollars, and 3D printers can be found in most places of the earth, and even at the International Space Station, where they are used to print replacement and repair parts. Moreover, they are available in all sorts of sizes, formats, and printing resolution (from meters to micrometers) and are capable of printing many different materials (such as plastics, concrete, chocolate, gels, metal, etc).
+
+As an alternative to patents and copyright, a lot of people have poured quite some time in creating licenses that, instead of putting a fence around an idea, make the point of making sure the licensed project can be used by as many people as possible, while crediting the original developers. 
 
 These licenses establish how the work should be used (is commercial use allowed or not) and re-shared (should derivative work be shared always under the same license) - More details will be given below). Some known examples of these licenses are Creative Commons v4.0 (CC) licenses, GNU General Public License v3.0 and the CERN open hardware license v2.0.
 
 ### Elements of licenses (attribution, report back, etc)
 
-Open Source licenses focus on XX main points:
-  - How can the licensed project be used
-  Can the project be used for commercial purposed, can it be used to do harm, can it be used to 
-  
-  - Is derivative work allowed?
-  - How is derivative work to be shared?
-  
+Common elements covered in the open source licenses include (but are not limited to):
 
-
-
-Open source licenses 
+- Attribution: Should/must original authors be attributed or not
+- Use areas: Is the project allowed ot be used in any/all areas (eg is there text in the license that prohibits use in potentially harmful areas?)
+- Commerciability: can the project be used for commercial purposes
+- Derivatives: Are derivatives of the project allowed? and if so, how should/must they be shared?
 
 
 
 
-### Copyleft and non copyleft licenses
+### Copyleft and non-copyleft licenses
 
 As mentioned above, one of the features of Open Source licenses is that they provide a guideline on how derivative work should be re-shared, that is, should the derivative be shared under the same license and conditions, or can the derivative be shared under different licenses and conditions?
 
@@ -68,11 +66,16 @@ We are going to cover this in more detail, but here is one example to get you th
 
 Make sure to check this module's resources for useful tools to help choosing licenses!
 
+<!--
+There are a number of licenses available for all sorts of different purposes. In this program, we are going to stick to mainly four of them
 
-There are a number of licenses available for all sorts of different purposes. In this module and in this program, we are going to stick to mainly four of them
-CERN
-CC
-MIT / GNU GPL
+- CERN
+- CC
+- MIT 
+- GNU GPL
+
+-->
+
 
 <!-- There are so many options! How would I know what license to choose??
 From the comments → MARTIN has offered to write a TL-DR guide for licensing
@@ -88,6 +91,8 @@ From the comments → MARTIN has offered to write a TL-DR guide for licensing
 - Browse through the resources below to learn about the different available licenses and their "ethos"
 
 ### Resources
+- [Too long, didn't read on legal issues around OSH](https://faircloud.eu/nextcloud/index.php/s/J7yL2jD7bESdDEZ)
+- https://www.whitesourcesoftware.com/resources/blog/open-source-licenses-explained/
 - https://creativecommons.org/
 - https://en.wikipedia.org/wiki/Copyleft
 - https://en.wikipedia.org/wiki/Open-source_license
