@@ -3,11 +3,11 @@ layout: page
 title: "Working Open"
 module: "1.1"
 date: 2016-10-06 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/01-welcome-to-OHM/brief-history.md
 summary: "Frequently asked questions about working open"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 * TOC
 {:toc}

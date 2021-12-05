@@ -3,11 +3,11 @@ layout: page
 title: "Defining a roadmap"
 module: "5.1"
 date: 2021-03-29 21:02
-time: "30 min"
+#time: "30 min"
 following: _articles/05-roadmapping/planning-progress.md
 summary: "Short introduction to roadmapping"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper or your preferred way of taking notes"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper or your preferred way of taking notes"
 ---
 <p align="center">
 <img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>

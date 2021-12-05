@@ -3,11 +3,11 @@ layout: page
 title: "Modularity"
 module: "3.2"
 date: 2016-10-06 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/03-building-open-projects/minimal-viable.md
-summary: "A way to organize your work, contributions and repairability"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+summary: "A way to facilitate your work, contributions and repairability"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 
 * TOC

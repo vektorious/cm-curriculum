@@ -3,11 +3,11 @@ layout: page
 title: "User guides"
 module: "4.4"
 date: 2016-10-06 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/_articles/04-open-hardware-specifics/developer_guide.md
 summary: "Documenting for the end users of your project"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 * TOC
 {:toc}

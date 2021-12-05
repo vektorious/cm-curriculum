@@ -3,11 +3,12 @@ layout: page
 title: "A minimal viable project"
 module: "3.3"
 date: 2016-10-06 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/03-building-open-projects/docs-for-whom.md
-summary: "Minimum structure required for performing a function"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+summary: "Minimum structure for delivering"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
+
 ---
 
 * TOC

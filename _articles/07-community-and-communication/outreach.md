@@ -3,11 +3,11 @@ layout: page
 title: "Outreach & communications"
 module: "7.3"
 date: 2016-10-06 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/08-OHM-outro.md
 summary: "The different types of communication channels, or “comms” you can use to help your community discover, explore, and contribute to your project."
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 
 * TOC
