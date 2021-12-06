@@ -3,11 +3,11 @@ layout: page
 title: "Defining your project"
 module: "2.1"
 date: 2016-10-06 14:05:56
-time: "30 min"
+#time: "30 min"
 following: _articles/02-staging-your-project/working-smart.md
 summary: "Define the scope of your open hardware project"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 
 * TOC

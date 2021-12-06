@@ -3,11 +3,11 @@ layout: page
 title: "Open Hardware Canvas"
 module: "1.4"
 date: 2016-10-06 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/02-staging-your-project.md
 summary: "A tool to help you manage your open hardware projects"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 
 * TOC

@@ -3,11 +3,11 @@ layout: page
 title: "Building a community"
 module: "7.1"
 date: 2021-04-07 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/07-community-and-communication/governance.md
 summary: ""
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 
 

@@ -3,11 +3,11 @@ layout: page
 title: "First impressions matter"
 module: "2.4"
 date: 2016-10-06 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/03-building-open-projects.md
 summary: "Effectively communicating the basics of your project"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 
 * TOC

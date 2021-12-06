@@ -3,11 +3,11 @@ layout: page
 title: "Developer guides"
 module: "4.5"
 date: 2016-10-06 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/05-roadmapping.md
 summary: "Documenting for developers and contributors of your project"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 * TOC
 {:toc}
@@ -55,3 +55,6 @@ The following elements should appear in your guidelines. If you don't know the d
 - Be sure to describe the current state of development of your project and point to open tasks
 
 ### Resources
+- https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
+- https://opensource.creativecommons.org/contributing-code/
+- https://opensource.com/life/16/3/contributor-guidelines-template-and-tips

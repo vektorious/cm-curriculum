@@ -3,11 +3,11 @@ layout: page
 title: "Participation and decision making"
 module: "7.2"
 date: 2021-04-07 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/07-community-and-communication/outreach.md
 summary: "An overview of decision-making systems for open projects"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
 ---
 
 * TOC

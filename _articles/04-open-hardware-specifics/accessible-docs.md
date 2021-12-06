@@ -3,11 +3,12 @@ layout: page
 title: "Accessible docs"
 module: "4.1"
 date: 2016-10-06 14:05:56
-time: "20 min"
+#time: "20 min"
 following: _articles/04-open-hardware-specifics/bom.md
-summary: "Guidelines for documenting your hardware so most people can use it or contribute to it"
-prereq: "Have completed all previous sections and modules"
-materials: "Pen or pencil and paper"
+summary: "This is a template module"
+#prereq: "Have completed all previous sections and modules"
+#materials: "Pen or pencil and paper"
+
 ---
 * TOC
 {:toc}
