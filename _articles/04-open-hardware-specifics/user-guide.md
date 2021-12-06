@@ -46,5 +46,9 @@ You are annoyed by users asking the same questions again and again? Well, how ab
 As mentioned in the previous section, different groups need different formats. For users export formats such as STP, STL or PDF are appropriate. They can be read/interpreted by different systems and are sufficient to produce the design.
 
 ### {{ site.assignment }} Write a minimal viable documentation for users
+- If you do not yet have a bill of materials/tools/skills, write them
+- Write building instructions/assembly guide/recipe
+- Write something about how to use your hardware, try to include common pitfalls
+
 
 ### Resources
