@@ -9,9 +9,7 @@ summary: "Open hardware projects and their audiences"
 #prereq: "Have completed all previous sections and modules"
 #materials: "Pen or pencil and paper"
 ---
-<p align="center">
-<img src="https://raw.githubusercontent.com/ohwmakers/OHM-curriculum/gh-pages/img/work_in_progress_banner.svg" width="80%"/>
-</p>
+
 * TOC
 {:toc}
 
@@ -19,7 +17,7 @@ summary: "Open hardware projects and their audiences"
 
 Documenting your project is a crucial step and really makes the difference on whether a project is only going to be usable by its creators, or by a wider community. In open projects, where creators/developers are encouraged to share their work early and often, documentation should be considered a "living", often changing part of the project, and "waiting for the project to be done" before starting documentation increases the chances that documentation stays on the "back burner" for too long, preventing others from contributing/using your work.
 
-Therefore, it is a good idea to think about how, what and in which system you are going to document your project. Additionally(see below), you should also think about who is your audience and what kind of information they need to be able to join as users and/or developers.
+Therefore, it is a good idea to think about how, what and in which system you are going to document your project. Additionally (see below), you should also think about who is your audience and what kind of information they need to be able to join as users and/or developers.
 
 Here are some suggestions on what to consider before starting your documentation plan:
 
@@ -41,7 +39,7 @@ In order to accommodate for these two different aspects (audience and branches),
 
 - One package, aimed at developers, should be about the "guts" of the device, what software it is using, how all the internal parts are connected, how the hardware communicates with the software and with other parts. Including known issues and limitations is also a good thing, as together with a list of wished improvements they help guide the work of developers.
 
-##### Documentation needs to be easy to use/modify (using mature OS tools and text formats contributes to that)
+##### Documentation needs to be easy to use/modify
 
 Besides thinking about to whom and what kind of documentation your project needs, you should also think about how you are going to distribute your documentation. Sharing the documentation in editable format allows others to also work on the documentation, either to improve it (by creating a translation for instance), or to adapt to their possible variants of your project.
 
@@ -51,30 +49,20 @@ Luckily there are other formats available that are more friendly towards these t
 
 We highly recommend projects to adopt Markdown as their writing format, BUT if you cannot invest the time to learn and use it at the moment, stick to the tool you are most comfortable with! After all, the MOST MOST important thing is that you document your project and share it in an easy to access editable format so that others can contribute to it!
 
-<!--##### language is different -->
-<!--
-This was in "working open" but better fits here, doesn't it?
-From Mozilla open leaders “book”
-“When you open your project, you may have an audience in mind (for example, software developers, educators, scientists or activists)… but you may want to reach a much broader community! Many people outside of your target audience may be interested in your project. People from all walks of life and professions– writers, designers, artists, journalists, parents, citizen scientists– may have valuable contributions to offer. Clearly communicating information about your project will enable others to understand and participate.”
-
--->
-
 
 ### {{ site.assignment }} Make a plan for your documentation
 - Decide on a writing platform/system
-- Make sure you regurlarly dedicate time to work on documenting things
+- Make sure you regularly dedicate time to work on documenting things
 - Remember that documentation needs to be aimed at different audiences:
   - Users with different initial knowledge and skills
   - Developers that can bring skills and help to different project aspects
 
 
-
 ### Resources
+**Markdown**
+- [What is markdown and why you should use it](https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html)
+- [HackMD](https://hackmd.io/)  
 
-#### Markdown
-https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html  
-https://hackmd.io/  
-
-#### Documentation tools
-https://www.docubricks.com/  
-https://gitbuilding.io/  
+**Documentation tools**
+- [Docubricks](https://www.docubricks.com/)  
+- [Gitbuilding](https://gitbuilding.io/)
