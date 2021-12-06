@@ -55,6 +55,7 @@ The following elements should appear in your guidelines. If you don't know the d
 - Be sure to describe the current state of development of your project and point to open tasks
 
 ### Resources
+- https://github.com/openUC2/UC2-GIT/blob/master/CONTRIBUTING.md
 - https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
 - https://opensource.creativecommons.org/contributing-code/
 - https://opensource.com/life/16/3/contributor-guidelines-template-and-tips

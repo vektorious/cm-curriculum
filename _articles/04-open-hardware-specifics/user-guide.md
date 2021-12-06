@@ -52,3 +52,4 @@ As mentioned in the previous section, different groups need different formats. F
 
 
 ### Resources
+- https://github.com/openUC2/UC2-GIT/tree/master/TUTORIALS
