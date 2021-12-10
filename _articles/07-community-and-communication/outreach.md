@@ -64,4 +64,5 @@ Some examples include running webinars or workshops and recording them for futur
 
 ### Resources
 - [The Up-Goer Five Text Editor](https://splasho.com/upgoer5/)
-
+- [SmoothieBoard 3d printer guide](https://smoothieware.org/3d-printer-guide)
+- [11 steps to running an online community meeting](https://opensource.com/open-organization/16/1/community-calls-will-increase-participation-your-open-organization)
