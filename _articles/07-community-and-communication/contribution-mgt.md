@@ -32,8 +32,7 @@ Support can come in many different forms:
 
 We are talking about people with whom you have person-to-person connections. These are people who can encourage and advise you; they’ll be your closest allies in creating this project.
 
-By describing your support network and the kinds of relationships you have, you’re in a better position to remember to draw on that group of advisers and allies when times get tough. And if your support network is vanishingly small, or if there isn’t anyone who supports you (yet), that may be a sign that you need to reach out and create more of those kinds of relationships.
-
+By describing your support network and the kinds of relationships you have, you’re in a better position to remember to draw on that group of advisers and allies when times get tough. And if you feel your support network is not large enough, this might be a good opportunity to reach out to people and create those kind of connections. Is there someone who you admire at a personal and/or professional level? Reaching out to them may sound daunting, but you'd be surprised on how much people like to support each other, specially when they are working on open exciting projects. 
 
 ### Contribution personas
 
@@ -47,8 +46,9 @@ Here is a sample persona for a member of an educational open hardware project co
 
 >Andrea is a 22 year old design student at Politecnico de Madrid. She likes creating stuff for fun, to learn new skills. She took an introductory interactive design class at uni and has lots of ideas for gadgets but she thinks she won't be able to create them because she's not an engineer. Andrea needs to build prototypes to test and validate interactive concepts in a University context, but boards are expensive to learn with, they are usually meant for experts, her background isn't technical and she feels programming microcontrollers is just too difficult. Andrea has been following the Arduino community on Twitter, has some exposure and interest to the open hardware community projects, but doesn't know where to start getting involved or what to learn first. 
 
+<!--suggestion: add a few words about the process of creating personas: ie. how many to start with, reiterate the personas over time etc? -->
 
-### And contribution pathways
+### Contribution pathways
 
 Once we have created a persona, we can imagine how they might interact with our project– the **pathway** they to get involved and to sustain involvement. Let’s imagine that this process of engagement has a few phases.
 
@@ -59,6 +59,7 @@ Once we have created a persona, we can imagine how they might interact with our 
 5. Networked Participation - How they may network within the community.
 6. Leadership - How they may take on some additional responsibility on the project, or begin to lead.
 
+<!--What does "working with a good persona" means? Is it that the persona description fits quite well with a potential real life contributor? -->
 If you are working with a good persona, you can clearly see a progression of steps. Here’s an example, continuing with Andrea:
 
 > 1. Discovery - Andrea reaches the project website through a STEM education newsletter
@@ -68,7 +69,7 @@ If you are working with a good persona, you can clearly see a progression of ste
 > 5. Networked Participation - She invites some of her peers to join your project forum
 > 6. Leadership - Agrees to present her work at a community call and creates a learning resource to contribute to the group’s repository.
 
-When you think through a pathway, you should begin to realize, what needs to be in place to move your persona forward. You’ll begin to see potential pitfalls for your persona, in terms of skills, time, and motivation. Once you have a sense of this story, you can begin to list solutions to any challenges. Here are examples of things that the project lead would need to do, or put in place for Rashid’s pathway to work:
+When you think through a pathway, you should begin to realize, what needs to be in place to move your persona forward. You’ll begin to see the friction points that would prevent your persona (and potential real life contributors), in terms of skills, time, and motivation. Once you have a sense of this story, you can begin to list solutions to any challenges. Here are examples of things that the project lead would need to do, or put in place for Andrea's pathway to work:
 
 - Publicize group meetings via other communities' communication channels
 - Collect emails of new group attendees for follow up messages.

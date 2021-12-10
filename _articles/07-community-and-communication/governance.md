@@ -35,9 +35,9 @@ One of the ways to do this is establish some guides for participation in the com
 Codes of Conduct serve two main purposes:
 
 - To establish the sorts of behaviors encouraged by the community, and to make clear which behaviors are unacceptable and discouraged
-- To establish the process by which any problems or violations of the guidelines will be handled by the project lead or leads.
+- To establish the processes by which any problems or violations of the guidelines will be handled by the project lead or leads.
 
-Examples of codes of conduct, sometimes called "participation guidelines":
+Examples of codes of conduct (sometimes called "participation guidelines"):
 - [Global Open Science Hardware community Code of Conduct](https://openhardware.science/gosh-2017/gosh-code-of-conduct/)
 - [Open Source Hardware Association code of conduct](https://www.oshwa.org/about/file-cabinet/policies/code-of-conduct/)
 - [Contributor Covenant](http://contributor-covenant.org/): Code of Conduct maintained specifically to be adopted by Open Source projects.
@@ -54,20 +54,21 @@ If your project is in its early stages you may not need to think of governance r
 ### {{ site.assignment }} Write your Code of Conduct
 This is a writing and brainstorming exercise. It can be done individually by the project lead but it’s best completed with members of your community, to encourage shared responsibility for the community’s health and wellbeing.
 
+
 You can also follow the guidelines in [OSHWA - How to write a code of conduct](https://www.oshwa.org/how-to-write-a-code-of-conduct/)
 
 1. Brainstorm. (30 minutes or more) Whether in person or online, start by reflecting on the following questions. Give yourself at least 5 minutes to answer each set of questions, or more time as needed.
 
 - What core words would you associate with your community? These could be values, ideals, or characteristics. Try to keep these to one word answers, if possible.If you’re having trouble getting started, think of communities you identify with, be they a set of friends, a group of peers, or an organization you feel a part of in some way. What makes that a community you come back to? (Examples: welcoming, safe, open, friendly, creative, playful, fun).
-- What behaviors do you want to encourage? …. and what do you want to discourage? Be specific enough to be useful here, and be sure to include lots of positive behaviors. Don’t focus only on the negative.(Examples: Encourage: active listening, being welcoming, asking questions; Discourage: unwanted physical contact, insults, being disrespectful of another’s skills or work)
-- How does someone alert you as project lead to a problem, issue, or violation of the code?Be explicit in these steps. It’s OK (and encouraged) to have a few different options for reporting issues.Example: Leaders create a Safety/Code of Conduct committee, and advertise a bit about each person (general information, bios) including a photo to all.Reporters of problems can contact the Safety/Code of Conduct representatives by email or in person at an event. Note that all discussions or correspondences are confidential. Call or text a Google Voice number, set up specifically for the event or project.
-- What consequences are there for violating the code? It’s important the consequences are real and appropriate to the situation. Examples: Asked to leave the event. Removed as a contributor from the project.
+- What behaviors do you want to encourage? … and what do you want to discourage? Be specific enough to be useful here, and be sure to include lots of positive behaviors. Don’t focus only on the negative.(Examples: Encourage: active listening, being welcoming, asking questions; Discourage: unwanted physical contact, insults, being disrespectful of another’s skills or work)
+- How does someone alert you as project lead to a problem, issue, or violation of the code? Be explicit in these steps. It’s OK (and encouraged) to have a few different options for reporting issues. Example: Leaders create a Safety/Code of Conduct committee, and advertise a bit about each person (general information, bios) including a photo to all. Reporters of problems can contact the Safety/Code of Conduct representatives by email or in person at an event. Note that all discussions or correspondences are confidential. Call or text a Google Voice number, set up specifically for the event or project.
+- What consequences are there for violating the code? It’s important the consequences are real and appropriate to the situation. Examples: Verbal warning. Asked to leave the event. Removed as a contributor from the project.
 - Who decides what does and does not violate the code? What’s an example of how this might be done? Come up with a process and think about you’d explain it to participants. This should be clear and consistent. You may want to define response times, how decisions on reported events will be handled, where this will be posted etc.
-- How can you make others feel safe and supported?Code of Conducts are about creating a welcoming and safe environment as much as they are about discouraging bad behavior. Take a few minutes to reflect on how you can better support your peers, reward or highlight good behavior, and model the behavior you want to see.
+- How can you make others feel safe and supported? Code of Conducts are about creating a welcoming and safe environment as much as they are about discouraging bad behavior. Take a few minutes to reflect on how you can better support your peers, reward or highlight good behavior, and model the behavior you want to see.
 
 2. Refine and Remix. (25 mins) Using the information you’ve collected in the brainstorm above and drawing on the examples, Write your own Code of Conduct. You can also remix some of these to get started.
 
-3. Share and Discuss. (As much time as needed) Share the version created with your wider community for feedback; make sure everyone knows about the Code, how it was created, and that the intention is to ensure the wellbeing of all community members. In the next section, you’ll be putting your project and this Code of Conduct on the online collaboration platform GitHub, where everyone can see it. It’s a great idea to ask for comments on your Code of Conduct from project members, and revise as needed
+3. Share and Discuss. (As much time as needed) Share the version created with your wider community for feedback (if there isn't one yet, share with colleagues, or trusted members from other communities); make sure everyone knows about the Code, how it was created, and that the intention is to ensure the wellbeing of all community members. In the next section, you’ll be putting your project and this Code of Conduct on the online collaboration platform GitHub, where everyone can see it. It’s a great idea to ask for comments on your Code of Conduct from project members, and revise as needed.
 
 ### Resources
 - https://communityrule.info (governance templates)

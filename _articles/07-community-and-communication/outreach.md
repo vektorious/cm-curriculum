@@ -23,6 +23,8 @@ In this section, you’ll learn about the importance of open communications to y
 
 Comms also give project members a chance to talk with one another and support each other’s contributions to the project. In the video below, see how Coral Project Community Lead Sydette Harry describes how the Tiny Letter tool curates and archives online conversations about ‘creating common ground’ for collaborators in open journalism projects. Sydette and her colleagues are working to create a web-based platform and shared space for journalism communities to discuss their shared values, interests, and work.
 
+<!-- missing video mentioned above -->
+
 ### Useful Communication Channels for Open Projects
 
 For contributors, your repository hosting all the project files is likely to be an important hub of communication about the project itself. Platforms usually have systems that alert users when someone is creating an issue, mentioning them in a conversation or submitting pull requests. 
