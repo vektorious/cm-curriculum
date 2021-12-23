@@ -9,7 +9,6 @@ summary: "The different types of communication channels, or “comms” you can 
 #prereq: "Have completed all previous sections and modules"
 #materials: "Pen or pencil and paper"
 ---
-
 * TOC
 {:toc}
 
@@ -23,15 +22,17 @@ In this section, you’ll learn about the importance of open communications to y
 
 Comms also give project members a chance to talk with one another and support each other’s contributions to the project. In the video below, see how Coral Project Community Lead Sydette Harry describes how the Tiny Letter tool curates and archives online conversations about ‘creating common ground’ for collaborators in open journalism projects. Sydette and her colleagues are working to create a web-based platform and shared space for journalism communities to discuss their shared values, interests, and work.
 
+{% include videowrapper.html url="https://www.filepicker.io/api/file/ho0atyueQOyzh0byiOox" title="Why Do Comms Matter to an Open Project? Sydette Harry" %}
+
 ### Useful Communication Channels for Open Projects
 
-For contributors, your repository hosting all the project files is likely to be an important hub of communication about the project itself. Platforms usually have systems that alert users when someone is creating an issue, mentioning them in a conversation or submitting pull requests. 
+For contributors, your repository hosting all the project files is likely to be an important hub of communication about the project itself. Platforms usually have systems that alert users when someone is creating an issue, mentioning them in a conversation or submitting pull requests.
 
-However, not all communications go through repositories, and if you just rely on them as a channel you will be missing a huge spectrum of potential contributors. It is not unusual for open hardware communities to have open forums, where it's easier to post a question or the intention to contribute. 
+However, not all communications go through repositories, and if you just rely on them as a channel you will be missing a huge spectrum of potential contributors. It is not unusual for open hardware communities to have open forums, where it's easier to post a question or the intention to contribute.
 
 Sometimes you will be in need for collaboration around specific documents. You'll find people link to documents like an Etherpad or Google Doc, commonly-used platforms for asynchronous planning and collaboration. They might also use chat channels like IRC, Matrix, or e-mail (mailing-lists, as an example). Keep in mind that one to one emails are okay but they should probably be replaced with more public communications in the name of openness around the project.
 
-However, other participants and community members less directly involved with the day-to-day work of the project still want to know what you’re making, how they can contribute, how it will help them, and when it will be ready to access. You can use a variety of communication channels to keep your larger community of potential supporters and users informed about your project’s progress. 
+However, other participants and community members less directly involved with the day-to-day work of the project still want to know what you’re making, how they can contribute, how it will help them, and when it will be ready to access. You can use a variety of communication channels to keep your larger community of potential supporters and users informed about your project’s progress.
 
 Which channels and forms of communication you choose or create should be determined with accessibility and inclusivity in mind. Use the tools that are available most broadly in your project’s community. When you’re planning communication channels, think back to your personas and pathways, to create or find the channels that best fit your contributors’ and community’s needs. Inviting contributors to work on comms is a great way to raise others’ voices in the project.
 
@@ -40,13 +41,13 @@ Some examples of communication channels:
 - A project calendar with all related events
 - A mailing list
 - A web forum
-- Social media 
+- Social media
 
 ### Keeping an online presence
 
 We highly recommend creating some kind of online presence that people can find through search or social media. As we mentioned in the very beginning of this series, this is the front page people should encounter first when they search for your project online.
 
-After establishing your web presence, create a communications channel or publication that lets you regularly update your entire community on your project’s progress. While you can do this through social media updates via a project account, you might also develop more in-depth platform for sharing news like a community call (over the phone or video conferencing), newsletter, or development blog. 
+After establishing your web presence, create a communications channel or publication that lets you regularly update your entire community on your project’s progress. While you can do this through social media updates via a project account, you might also develop more in-depth platform for sharing news like a community call (over the phone or video conferencing), newsletter, or development blog.
 
 You can learn more about community calls in this great guide by Laura Hilliger: [11 steps to running an online community meeting](https://opensource.com/open-organization/16/1/community-calls-will-increase-participation-your-open-organization).
 
@@ -62,4 +63,5 @@ Some examples include running webinars or workshops and recording them for futur
 
 ### Resources
 - [The Up-Goer Five Text Editor](https://splasho.com/upgoer5/)
-
+- [SmoothieBoard 3d printer guide](https://smoothieware.org/3d-printer-guide)
+- [11 steps to running an online community meeting](https://opensource.com/open-organization/16/1/community-calls-will-increase-participation-your-open-organization)
