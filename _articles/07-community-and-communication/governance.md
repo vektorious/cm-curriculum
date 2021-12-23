@@ -9,7 +9,6 @@ summary: "An overview of decision-making systems for open projects"
 #prereq: "Have completed all previous sections and modules"
 #materials: "Pen or pencil and paper"
 ---
-
 * TOC
 {:toc}
 
@@ -53,7 +52,6 @@ If your project is in its early stages you may not need to think of governance r
 
 ### {{ site.assignment }} Write your Code of Conduct
 This is a writing and brainstorming exercise. It can be done individually by the project lead but it’s best completed with members of your community, to encourage shared responsibility for the community’s health and wellbeing.
-
 
 You can also follow the guidelines in [OSHWA - How to write a code of conduct](https://www.oshwa.org/how-to-write-a-code-of-conduct/)
 

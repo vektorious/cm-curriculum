@@ -9,8 +9,6 @@ summary: ""
 #prereq: "Have completed all previous sections and modules"
 #materials: "Pen or pencil and paper"
 ---
-
-
 * TOC
 {:toc}
 
@@ -19,20 +17,20 @@ summary: ""
 
 One of the most exciting things that can happen to you once your project is out there is that someone finds it exciting and wants to start contributing to it. It's one of the great things about going open, people around the world can join you, multiplying the impact of your project.
 
-However, any time a group of people come together to do exciting, creative work, there will necessarily be struggles. As project lead, you’ll need to establish good working relationships with an ever-growing, diverse community of contributors. 
+However, any time a group of people come together to do exciting, creative work, there will necessarily be struggles. As project lead, you’ll need to establish good working relationships with an ever-growing, diverse community of contributors.
 
 It’s important that you, as project lead, have support and help that you can count on when things get challenging. So before you grow a community of contributors around your project, identify a smaller group of people who support you as an open leader.
 
 Support can come in many different forms:
 
-- someone who shares or champions your vision, 
-- someone who serves as a partner or colleague in this work, 
+- someone who shares or champions your vision,
+- someone who serves as a partner or colleague in this work,
 - someone who funds your project or has been reliable and enthusiastic about contributing time, work, advice,
 - someone in your life who doesn’t work on the project, but offers emotional support or encouragement
 
 We are talking about people with whom you have person-to-person connections. These are people who can encourage and advise you; they’ll be your closest allies in creating this project.
 
-By describing your support network and the kinds of relationships you have, you’re in a better position to remember to draw on that group of advisers and allies when times get tough. And if you feel your support network is not large enough, this might be a good opportunity to reach out to people and create those kind of connections. Is there someone who you admire at a personal and/or professional level? Reaching out to them may sound daunting, but you'd be surprised on how much people like to support each other, specially when they are working on open exciting projects. 
+By describing your support network and the kinds of relationships you have, you’re in a better position to remember to draw on that group of advisers and allies when times get tough. And if you feel your support network is not large enough, this might be a good opportunity to reach out to people and create those kind of connections. Is there someone who you admire at a personal and/or professional level? Reaching out to them may sound daunting, but you'd be surprised on how much people like to support each other, specially when they are working on open exciting projects.
 
 ### Contribution personas
 
@@ -40,11 +38,11 @@ When you think of attracting contributors, it's better to plan a little in order
 
 "Personas" and "Pathways" are tools used in the world of design that will help you plan and test how you'll interact with new contributors, and imagine what is really involved for the contributor to succeed.
 
-A **persona** is a detail of an imaginary member of your community, based on real-world observations and understandings of existing members or potential future members. 
+A **persona** is a detail of an imaginary member of your community, based on real-world observations and understandings of existing members or potential future members.
 
 Here is a sample persona for a member of an educational open hardware project community:
 
->Andrea is a 22 year old design student at Politecnico de Madrid. She likes creating stuff for fun, to learn new skills. She took an introductory interactive design class at uni and has lots of ideas for gadgets but she thinks she won't be able to create them because she's not an engineer. Andrea needs to build prototypes to test and validate interactive concepts in a University context, but boards are expensive to learn with, they are usually meant for experts, her background isn't technical and she feels programming microcontrollers is just too difficult. Andrea has been following the Arduino community on Twitter, has some exposure and interest to the open hardware community projects, but doesn't know where to start getting involved or what to learn first. 
+>Andrea is a 22 year old design student at Politecnico de Madrid. She likes creating stuff for fun, to learn new skills. She took an introductory interactive design class at uni and has lots of ideas for gadgets but she thinks she won't be able to create them because she's not an engineer. Andrea needs to build prototypes to test and validate interactive concepts in a University context, but boards are expensive to learn with, they are usually meant for experts, her background isn't technical and she feels programming microcontrollers is just too difficult. Andrea has been following the Arduino community on Twitter, has some exposure and interest to the open hardware community projects, but doesn't know where to start getting involved or what to learn first.
 
 <!--suggestion: add a few words about the process of creating personas: ie. how many to start with, reiterate the personas over time etc? -->
 
@@ -59,7 +57,6 @@ Once we have created a persona, we can imagine how they might interact with our 
 5. Networked Participation - How they may network within the community.
 6. Leadership - How they may take on some additional responsibility on the project, or begin to lead.
 
-<!--What does "working with a good persona" means? Is it that the persona description fits quite well with a potential real life contributor? -->
 If you are working with a good persona, you can clearly see a progression of steps. Here’s an example, continuing with Andrea:
 
 > 1. Discovery - Andrea reaches the project website through a STEM education newsletter
