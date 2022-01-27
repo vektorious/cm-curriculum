@@ -12,9 +12,11 @@ summary: "Taking a look at your open journey"
 
 Although open hardware presents some features that differentiate it from other open movements, the core principles of working open still apply across domains. Mozilla’s Hive Research Lab characterises the core principles and benefits of working open like this:
 
-![A table showing core principles and benefits of working open](outro.png)
+![A table showing core principles and benefits of working open](/outro.png)
 
 Looking back to what you built during the program, can you identify these traits? Are you documenting your project or just releasing files in a repository? Are you registering your decision making process for others to better understand how to contribute to your project? Are you intentionally thinking about how others can grow while contributing to your project?
+
+Is there any strategy you can put in place to ensure your project is working in the open?
 
 ### {{ site.assignment }} Asking for support
 

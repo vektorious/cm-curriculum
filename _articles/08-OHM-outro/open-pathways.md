@@ -14,7 +14,7 @@ summary: "Thinking of your project in the mid- and long-term"
 
 Congratulations, open hardware maker! You’ve done a lot of work in a short amount of time to level up your open, inclusive and sustainable hardware skills. As you take what you’ve learned and built into the future, we wanted to share with you some of the visions that the open science hardware community has for the future.
 
-[GOSH 2018 video](https://www.youtube.com/watch?v=zZXOi6zCMDA&t=94s)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zZXOi6zCMDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We invite you to look back into the first draft of your project vision. Do you still relate to it? Would you change anything? How would that impact your roadmap to get there? Are you able to envision not only the progress of your design, but the growth of your community? 
 
