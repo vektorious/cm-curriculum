@@ -32,25 +32,24 @@ Completion of the assignments in this series is very important! The work in each
 
 We’ve provided a time estimate of how long it should take to complete each module, including assignments. While you might complete the reading/learning part of this training over the course of a few days, some of the assignments may take much longer to complete (e.g. writing user guides), and can therefore be useful to you as a reference in the future.
 
-### General schedule
+### General schedule of OHM Cohort 1 (March 2022)
 
-|    Week   |    Meeting    | Activities                       |
-|:---------:|:-------------:|----------------------------------|
-|   Week 0  |  Onboarding | [OHM Basics]({{ site.baseurl }}/articles/00-ohbasics) |
-|   Week 1  |  Opening call | [Welcome to Open Hardware Makers!]({{ site.baseurl }}/articles/01-welcome-to-OHM) |
-|   Week 2  |  Mentor call  | [Staging your project]({{ site.baseurl }}/articles/02-staging-your-project)             |
-|   Week 3  |  Cohort call  | Peer review                      |
-|   Week 4  |  Mentor call  | [Building open projects]({{ site.baseurl }}/articles/03-building-open-projects)           |
-|   Week 5  |  Cohort call  | Peer review                      |
-|   Week 6  |  Mentor call  | [Open hardware specifics]({{ site.baseurl }}/articles/04-open-hardware-specifics)          |
-|   Week 7  |  Cohort call  | Peer review                      |
-|   Week 8  |  Mentor call  | [Roadmapping]({{ site.baseurl }}/articles/05-roadmapping)         |
-|   Week 9  |  Cohort call  | Expert assessment/review         |
-|  Week 10  |  Mentor call  | [Licenses and Standards]({{ site.baseurl }}/articles/06-licenses-and-standards)          |
-|  Week 11  |  Cohort call  | Peer review                      |
-|  Week 12  |  Mentor call  | [Community and Communication]({{ site.baseurl }}/articles/07-community-and-communication)       |
-|  Week 13  | Global Sprint | Work on project demo             |
-| Week 13.5 |  Public call  | Showcase of projects             |
-|  Week 14  |  Cohort call  | Peer review                      |
-|  Week 15  |  Mentor call  | Debrief & Next Steps             |
-|  Week 16  |  Cohort call  | Closing                          |
+|      **DATES**     |  **WEEK OF THE PROGRAM** | **TYPE OF CALL** |     **CURRICULUM MODUELE**     |
+|:-----------------:|:---------:|:----------------:|:--------------------------------:|
+|    14-20 March    |   Week 0  |    Onboarding    | OHM Basics                       |
+|    21-27 March    |   Week 1  |    Cohort call   | Welcome to Open Hardware Makers! |
+| 28 March-03 April |   Week 2  |   Mentor call 1  | Staging your project             |
+|    04-10 April    |   Week 3  |    Cohort call   | Peer review                      |
+|    11-17 April    |   Week 4  |   Mentor call 2  | Building open projects           |
+|    18-24 April    |   Week 5  |    Cohort call   | Peer review                      |
+|  25 April-01 May  |   Week 6  |   Mentor call 3  | Open hardware specifics          |
+|     02-08 May     |   Week 7  |    Cohort call   | Peer review                      |
+|     09-15 May     |   Week 8  |   Mentor call 4  | Roadmapping                      |
+|     16-22 May     |   Week 9  |    Cohort call   | Expert assessment                |
+|     23-29 May     |  Week 10  |   Mentor call 5  | Licenses and Standards           |
+|   30 May-05 June  |  Week 11  |    Cohort call   | Peer review                      |
+|     06-12 June    |  Week 12  |   Mentor call 6  | Community and Communication      |
+|     10-12 June    | Week 12.5 |   Global Sprint  | Work on project demo             |
+|     13-19 June    |  Week 13  |    Public call   | Showcase of projects             |
+|     20-26 June    |  Week 14  |   Mentor call 7  | Debrief & Next Steps             |
+|  27 June-03 July  |  Week 15  |    Cohort call   | Closing activity for mentees     |
