@@ -31,8 +31,8 @@ To make an Open Hardware Canvas, you’ll fill a one-page template with informat
 
 ### {{ site.assignment }} Fill out the Open Hardware Canvas
 
-1. Go to https://github.com/ohwmakers/ohcanvas
-2. Download `ohcanvasbeta.jpg` and edit it with any slides/image editor, or make a copy of the google docs template as indicated in the repository
+1. Go to the [Open hardware Canvas repository](https://github.com/ohwmakers/ohcanvas)
+2. Download `ohcanvas_beta.png` and edit it with any slides/image editor, or make a copy of the google docs template as indicated in the repository
 3. Read the description of what goes in each field and complete what you can.
 
 If you don’t yet know some of the information that goes in the boxes, it's OK. You can leave user channels, contributor profiles and channels boxes blank for now if you don’t have that information. We’ll go over those items in later Sections. Try to complete most boxes with what you can, the idea is that you review and refine the canvas as we move through this training series.
