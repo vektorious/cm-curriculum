@@ -26,7 +26,11 @@ The permanent home of the Open Hardware Canvas, where you will find the latest v
 
 To make an Open Hardware Canvas, you’ll fill a one-page template with information about your project. Here’s a sample of the Open Hardware Canvas template, with descriptions of the information required in each section.
 
-## Pending EXAMPLE
+As an example of a filled out canvas looks like, take a look at the image below, where the developers of JeanCloud (a new project under development) have filled it out.
+
+
+<img src="../../../img/2022-03-20_OH-canvas-JeanCloud.png">
+
 
 
 ### {{ site.assignment }} Fill out the Open Hardware Canvas
