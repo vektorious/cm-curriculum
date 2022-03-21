@@ -62,7 +62,7 @@ Below you will see how to add the Open KnowHow standard to your project and how 
 
 ### {{ site.assignment }} Add an Open KnowHow manifesto to your project
 
-- Follow [these instructions](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/wiki) to create a .yml file to include your project in [openknowhow.org](https://openknowhow.org) (You can use [this online form](https://okh.makernet.org/form) to create the .yml file)
+- Follow [these instructions](https://standards.internetofproduction.org/pub/okh/release/1) to create a .yml file to include your project in [openknowhow.org](https://openknowhow.org) (You can use [this online form](https://okh.makernet.org/form) to create the .yml file)
 
 ### Resources
 - [Open Know-How manifest](https://app.standardsrepo.com/MakerNetAlliance/OpenKnowHow/src/branch/master/1)
