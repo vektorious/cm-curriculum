@@ -49,7 +49,7 @@ We’ve provided a time estimate of how long it should take to complete each mod
 |     23-29 May     |  Week 10  |   Mentor call 5  | Licenses and Standards           |
 |   30 May-05 June  |  Week 11  |    Cohort call   | Peer review                      |
 |     06-12 June    |  Week 12  |   Mentor call 6  | Community and Communication      |
-|     10-12 June    | Week 12.5 |   Global Sprint  | Work on project demo             |
-|     13-19 June    |  Week 13  |    Public call   | Showcase of projects             |
+|     13-19 June    |  Week 13  |    Cohort call   | Showcase of projects             |
+|     17-19 June    | Week 13.5 |   Global Sprint  | Work on project demo             |
 |     20-26 June    |  Week 14  |   Mentor call 7  | Debrief & Next Steps             |
-|  27 June-03 July  |  Week 15  |    Cohort call   | Closing activity for mentees     |
+|  27 June-03 July  |  Week 15  |    Public call   | Closing activity for mentees     |
