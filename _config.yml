@@ -1,14 +1,14 @@
-title: Open Hardware Makers Curriculum
+title: Critical Making Curriculum
 #subtitle:
 email: ohwmakers@gmail.com
 twitter: https://twitter.com/openHWmakers
 #chat:
 description: > # this means to ignore newlines until "baseurl:"
   Open Hardware Makers is a mentorship program teaching best practices for Open Source Hardware
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://openhardware.space" # the base hostname & protocol for your site
+baseurl: "cm-curriculum" # the subpath of your site, e.g. /blog
+url: "https://alexanderkutschera.com" # the base hostname & protocol for your site
 github:
-  repo: "ohwmakers/OHM-curriculum"
+  repo: "vektorious/cm-curriculum"
   branch: "gh-pages"
 
 
