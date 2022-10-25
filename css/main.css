@@ -1,10 +1,9 @@
 .hero-unit {
-  background-image:
-    linear-gradient(black, black),
-    url("https://pbs.twimg.com/profile_banners/1204072470766063616/1597256526/1500x500");
+
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: #29B685;
   background-blend-mode: saturation;
   text-align: center;
 }
@@ -14,7 +13,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #E8AD35;
+  background-color: #29B685;
   text-align: center;
 }
 
@@ -44,7 +43,7 @@ ol.toc {
 }
 
 h3 {
-  color: #AA7C2C;
+  color: #F06626;
   font-weight: 200;
   margin-top: 3rem;
   margin-bottom: 2rem;
@@ -161,7 +160,7 @@ code {
 .sidebar-header .moz-logo {
   display: block;
   width: auto;
-  max-width: 300px;
+  max-width: 200px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -175,7 +174,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar {
   position: relative;
-  background-color: #E8AD35;
+  background-color: #29B685;
   position: relative;
   height: auto;
   color: #fff;
@@ -232,7 +231,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar-header .moz-logo {
   width: 100%;
-  max-width: 100px;
+  max-width: 200px;
 }
 
 .sidebar-header .glyphicon-menu-hamburger {
@@ -279,7 +278,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar-menu > li > a:hover,
 .sidebar-menu > li > a:focus {
-  background-color: #AA7C2C;
+  background-color: #F06626;
   transition: background-color 3ms;
 }
 
@@ -289,7 +288,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu li.selected {
-  background-color: #AA7C2C;
+  background-color: #F06626;
 }
 
 .sidebar-menu strong {
@@ -433,7 +432,7 @@ blockquote {
   line-height: 2.2rem;
   font-size: 1.25rem;
   border-left: 2px solid rgba(67, 131, 191, 0.3);
-  color: #AA7C2C;
+  color: #F06626;
 }
 
 body ul, body ol {
@@ -474,7 +473,7 @@ td, th {
 
 a.btn {
   border: none;
-  background: #E8AD35;
+  background: #29B685;
   border-bottom: solid 2px #fff;
   color: #fff;
   transition: background 0.2s ease-in-out;
@@ -488,7 +487,7 @@ a.btn {
 
 a.btn:hover {
   opacity: 1;
-  background: #AA7C2C;
+  background: #F06626;
   color: #fff;
 }
 
